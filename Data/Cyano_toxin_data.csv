@@ -1,0 +1,81 @@
+﻿Species,Date,Treatment,Starting_Cond,Acute_temp,Nutrients,Duplicate,Replicate,Abs_450,Conc,RFU_raw_Final,RFU_raw_initial,Dilution_fact
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i,A,0.1237,NA,5190.99,159.14,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,A,0.120499998,NA,5190.99,159.14,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i ,B,0.157100007,NA,5096.27,156.07,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,B,0.1294,NA,5096.27,156.07,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i ,C,0.158000007,NA,3764.77,159.65,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,C,0.159199998,NA,3764.77,159.65,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i ,D,0.097099997,NA,4979.7,164.73,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,D,0.1171,NA,4979.7,164.73,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i ,E,0.157399997,NA,5054.54,164.36,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,E,0.138799995,NA,5054.54,164.36,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,i ,F,0.1171,NA,4384.1,155.63,15
+M. aeruginosa (toxic),7/31/19,"well 1, normal nutrient",1,28.6,Normal,ii,F,0.122500002,NA,4384.1,155.63,15
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i,A,0.222900003,NA,2618.65,207,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,A,0.149399996,NA,2618.65,207,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i ,B,0.129899994,NA,3575.28,214.8,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,B,0.119999997,NA,3575.28,214.8,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i ,C,0.122400001,NA,3617.7,201.56,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,C,0.128299996,NA,3617.7,201.56,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i ,D,0.127000004,NA,4458.12,195.34,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,D,0.097499996,NA,4458.12,195.34,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i ,E,0.148300007,NA,3583.27,200.21,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,E,0.126900002,NA,3583.27,200.21,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,i ,F,0.151099995,NA,3547.98,198.26,10
+M. aeruginosa (toxic),7/31/19,"well 5, normal nutrient",5,28.6,Normal,ii,F,0.133200005,NA,3547.98,198.26,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i,A,0.297800004,NA,1636.75,130.54,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,A,0.358799994,NA,1636.75,130.54,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i ,B,0.373800009,NA,1500.9,126.73,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,B,0.446999997,NA,1500.9,126.73,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i ,C,0.356599987,NA,1729.92,131.37,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,C,0.284399986,NA,1729.92,131.37,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i ,D,0.523899972,NA,1607.62,132.77,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,D,0.4639,NA,1607.62,132.77,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i ,E,0.29460001,NA,1907.02,130.49,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,E,0.329699993,NA,1907.02,130.49,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,i ,F,0.389899999,NA,1567.55,129.89,10
+M. aeruginosa (toxic),7/31/19,"well 8, normal nutrient",8,28.6,Normal,ii,F,0.50150001,NA,1567.55,129.89,10
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i,A,0.7888,NA,100.2,89.08,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,A,0.99089998,NA,100.2,89.08,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i ,B,1.036000013,NA,109.65,116.55,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,B,0.861100018,NA,109.65,116.55,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i ,C,0.78640002,NA,118.46,99.54,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,C,0.910899997,NA,118.46,99.54,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i ,D,1.194700003,NA,128.9,90,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,D,0.933799982,NA,128.9,90,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i ,E,0.521300018,NA,133.02,93.93,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,E,0.5801,NA,133.02,93.93,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,i ,F,0.334899992,NA,194.78,96.13,4
+M. aeruginosa (toxic),7/31/19,"well 1, low nutrient",1,28.6,Low,ii,F,1.079200029,NA,194.78,96.13,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i,A,1.207100034,NA,194.34,162.34,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,A,0.600000024,NA,194.34,162.34,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i ,B,1.498100042,NA,179.36,161.63,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,B,1.242200017,NA,179.36,161.63,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i ,C,1.090800047,NA,201.51,163.8,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,C,1.273300052,NA,201.51,163.8,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i ,D,1.196099997,NA,185.03,162.88,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,D,1.164100051,NA,185.03,162.88,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i ,E,1.023900032,NA,216.74,163.25,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,E,1.085199952,NA,216.74,163.25,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,i ,F,1.255399942,NA,201.88,164.76,4
+M. aeruginosa (toxic),7/31/19,"well 5, low nutrient",5,28.6,Low,ii,F,1.326900005,NA,201.88,164.76,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i,A,1.004799962,NA,135.73,169.37,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,A,1.034500003,NA,135.73,169.37,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i ,B,1.778399944,NA,120.85,169.86,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,B,1.700899959,NA,120.85,169.86,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i ,C,1.58070004,NA,108.8,164.73,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,C,1.956900001,NA,108.8,164.73,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i ,D,1.616600037,NA,108.8,164.56,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,D,1.589400053,NA,108.8,164.56,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i ,E,1.697600007,NA,110.02,169.28,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,E,1.493999958,NA,110.02,169.28,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,i ,F,0.3222,NA,132.01,172.61,4
+M. aeruginosa (toxic),7/31/19,"well 8, low nutrient",8,28.6,Low,ii,F,1.468799949,NA,132.01,172.61,4
+NA,7/31/19,Negative Control,NA,NA,Std,i,NA,2.257600069,0,NA,NA,NA
+NA,7/31/19,Negative Control,NA,NA,Std,ii,NA,2.528300047,0,NA,NA,NA
+NA,7/31/19,0.2 ppb Calibrator,NA,NA,Std,i,NA,1.824300051,0.2,NA,NA,NA
+NA,7/31/19,0.2 ppb Calibrator,NA,NA,Std,ii,NA,1.86559999,0.2,NA,NA,NA
+NA,7/31/19,0.60 ppb Calibrator,NA,NA,Std,i,NA,0.760399997,0.6,NA,NA,NA
+NA,7/31/19,0.60 ppb Calibrator,NA,NA,Std,ii,NA,0.775200009,0.6,NA,NA,NA
+NA,7/31/19,2.0 ppb Calibrator,NA,NA,Std,i,NA,0.143000007,2,NA,NA,NA
+NA,7/31/19,2.0 ppb Calibrator,NA,NA,Std,ii,NA,0.152099997,2,NA,NA,NA

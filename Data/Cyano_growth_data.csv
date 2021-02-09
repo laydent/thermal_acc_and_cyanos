@@ -1,0 +1,646 @@
+Species,Sample_ID,Treatment,Nutrient.tx,Acute.temp.id,Replicate,Acclim.temp,Acute.temp,Temp.tx,Medium,mu,best.model,rsqr,lnf0,id
+A. flos-aquae,1,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.347746219,gr,0.964338479,5.865447707,A. flos-aquae 1 LOW 1 A
+A. flos-aquae,1,1,LOW,1,B,15.66,15.66,Cold,B Limited,0.364921626,gr,0.984382954,5.994709277,A. flos-aquae 1 LOW 1 B
+A. flos-aquae,1,1,LOW,1,C,15.66,15.66,Cold,B Limited,0.334233258,gr,0.974740678,5.97095567,A. flos-aquae 1 LOW 1 C
+A. flos-aquae,1,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.365219501,gr,0.961707154,6.042917829,A. flos-aquae 1 NORM 1 D
+A. flos-aquae,1,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.312232993,gr,0.939241444,6.034476143,A. flos-aquae 1 NORM 1 E
+A. flos-aquae,1,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.297093532,gr,0.919297457,6.031742394,A. flos-aquae 1 NORM 1 F
+A. flos-aquae,2,8,LOW,1,A,39.09,15.66,Hot,B Limited,0.037073945,gr,0.323710427,6.087569865,A. flos-aquae 8 LOW 2 A
+A. flos-aquae,2,8,LOW,1,B,39.09,15.66,Hot,B Limited,0.008711676,gr,0.018532476,6.079498318,A. flos-aquae 8 LOW 2 B
+A. flos-aquae,2,8,LOW,1,C,39.09,15.66,Hot,B Limited,0.146523602,gr,0.447750795,6.212064867,A. flos-aquae 8 LOW 2 C
+A. flos-aquae,2,8,NORM,1,D,39.09,15.66,Hot,A Replete,-0.003761361,gr,0.00118637,6.656083644,A. flos-aquae 8 NORM 2 D
+A. flos-aquae,2,8,NORM,1,E,39.09,15.66,Hot,A Replete,0.047884778,gr,0.17058263,6.633200005,A. flos-aquae 8 NORM 2 E
+A. flos-aquae,2,8,NORM,1,F,39.09,15.66,Hot,A Replete,0.059069104,gr,0.168226382,6.559275236,A. flos-aquae 8 NORM 2 F
+A. flos-aquae,3,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.173327509,gr,0.699808376,5.973809612,A. flos-aquae 1 LOW 3 A
+A. flos-aquae,3,1,LOW,1,B,15.66,15.66,Cold,B Limited,0.229312858,gr,0.937994388,5.952255834,A. flos-aquae 1 LOW 3 B
+A. flos-aquae,3,1,LOW,1,C,15.66,15.66,Cold,B Limited,0.115981784,gr,0.945343971,5.973453314,A. flos-aquae 1 LOW 3 C
+A. flos-aquae,3,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.229714177,gr,0.730029917,6.107512745,A. flos-aquae 1 NORM 3 D
+A. flos-aquae,3,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.192954927,gr,0.867331868,6.096139828,A. flos-aquae 1 NORM 3 E
+A. flos-aquae,3,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.162643384,gr,0.410352172,6.051571388,A. flos-aquae 1 NORM 3 F
+A. flos-aquae,4,1,LOW,2,A,15.66,18.48,Cold,B Limited,0.301444425,gr,0.836285054,5.969142248,A. flos-aquae 1 LOW 4 A
+A. flos-aquae,4,1,LOW,2,B,15.66,18.48,Cold,B Limited,0.337885691,gr,0.724116808,6.108046862,A. flos-aquae 1 LOW 4 B
+A. flos-aquae,4,1,LOW,2,C,15.66,18.48,Cold,B Limited,0.372354034,gr,0.98823199,5.86850564,A. flos-aquae 1 LOW 4 C
+A. flos-aquae,4,1,NORM,2,D,15.66,18.48,Cold,A Replete,0.397355959,gr,0.979454063,6.135846237,A. flos-aquae 1 NORM 4 D
+A. flos-aquae,4,1,NORM,2,E,15.66,18.48,Cold,A Replete,0.581258274,gr,0.973973787,6.169819916,A. flos-aquae 1 NORM 4 E
+A. flos-aquae,4,1,NORM,2,F,15.66,18.48,Cold,A Replete,0.591672991,gr,0.996928463,6.096454994,A. flos-aquae 1 NORM 4 F
+A. flos-aquae,5,8,LOW,2,A,39.09,18.48,Hot,B Limited,0.00287945,gr,0.002200713,6.069258575,A. flos-aquae 8 LOW 5 A
+A. flos-aquae,5,8,LOW,2,B,39.09,18.48,Hot,B Limited,0.028092552,gr,0.290005644,6.015547218,A. flos-aquae 8 LOW 5 B
+A. flos-aquae,5,8,LOW,2,C,39.09,18.48,Hot,B Limited,0.019023244,gr,0.085049152,6.100453472,A. flos-aquae 8 LOW 5 C
+A. flos-aquae,5,8,NORM,2,D,39.09,18.48,Hot,A Replete,0.022222565,gr,0.043771127,6.595069879,A. flos-aquae 8 NORM 5 D
+A. flos-aquae,5,8,NORM,2,E,39.09,18.48,Hot,A Replete,-0.029568387,gr,0.103431292,6.576887309,A. flos-aquae 8 NORM 5 E
+A. flos-aquae,5,8,NORM,2,F,39.09,18.48,Hot,A Replete,-0.051421105,gr,0.538455964,6.767308602,A. flos-aquae 8 NORM 5 F
+A. flos-aquae,6,2,LOW,2,A,18.48,18.48,,B Limited,-0.042447199,gr,0.623840769,6.150496153,A. flos-aquae 2 LOW 6 A
+A. flos-aquae,6,2,LOW,2,B,18.48,18.48,,B Limited,0.015262526,gr,0.004544886,6.023980139,A. flos-aquae 2 LOW 6 B
+A. flos-aquae,6,2,LOW,2,C,18.48,18.48,,B Limited,-0.156813,gr,0.521027437,6.236917385,A. flos-aquae 2 LOW 6 C
+A. flos-aquae,6,2,NORM,2,D,18.48,18.48,,A Replete,0.382784434,gr,0.99863952,6.248410312,A. flos-aquae 2 NORM 6 D
+A. flos-aquae,6,2,NORM,2,E,18.48,18.48,,A Replete,0.48841323,gr,0.949994793,6.075047136,A. flos-aquae 2 NORM 6 E
+A. flos-aquae,6,2,NORM,2,F,18.48,18.48,,A Replete,0.480797426,gr,0.995210139,6.133050911,A. flos-aquae 2 NORM 6 F
+A. flos-aquae,7,1,LOW,3,A,15.66,22.09,Cold,B Limited,0.371854648,gr,0.684751908,5.904025806,A. flos-aquae 1 LOW 7 A
+A. flos-aquae,7,1,LOW,3,B,15.66,22.09,Cold,B Limited,0.517565896,gr,0.963698141,5.902305411,A. flos-aquae 1 LOW 7 B
+A. flos-aquae,7,1,LOW,3,C,15.66,22.09,Cold,B Limited,0.439792792,gr,0.929844365,5.990964422,A. flos-aquae 1 LOW 7 C
+A. flos-aquae,7,1,NORM,3,D,15.66,22.09,Cold,A Replete,0.702294371,gr,0.975693423,6.032918342,A. flos-aquae 1 NORM 7 D
+A. flos-aquae,7,1,NORM,3,E,15.66,22.09,Cold,A Replete,0.746254797,gr,0.994603963,6.074587123,A. flos-aquae 1 NORM 7 E
+A. flos-aquae,7,1,NORM,3,F,15.66,22.09,Cold,A Replete,0.809378507,gr,0.960519019,6.115892125,A. flos-aquae 1 NORM 7 F
+A. flos-aquae,8,8,LOW,3,A,39.09,22.09,Hot,B Limited,-0.000902773,gr,7.70E-05,6.018812169,A. flos-aquae 8 LOW 8 A
+A. flos-aquae,8,8,LOW,3,B,39.09,22.09,Hot,B Limited,0.02199673,gr,0.081234303,6.035313954,A. flos-aquae 8 LOW 8 B
+A. flos-aquae,8,8,LOW,3,C,39.09,22.09,Hot,B Limited,0.065311947,gr,0.726976691,6.120868684,A. flos-aquae 8 LOW 8 C
+A. flos-aquae,8,8,NORM,3,D,39.09,22.09,Hot,A Replete,0.338859607,gr,0.843047449,6.589270297,A. flos-aquae 8 NORM 8 D
+A. flos-aquae,8,8,NORM,3,E,39.09,22.09,Hot,A Replete,0.251216743,gr,0.641689345,6.68178273,A. flos-aquae 8 NORM 8 E
+A. flos-aquae,8,8,NORM,3,F,39.09,22.09,Hot,A Replete,0.374347858,gr,0.714991684,6.550937468,A. flos-aquae 8 NORM 8 F
+A. flos-aquae,9,3,LOW,3,A,22.09,22.09,,B Limited,0.09709585,gr,0.056253423,5.720836229,A. flos-aquae 3 LOW 9 A
+A. flos-aquae,9,3,LOW,3,B,22.09,22.09,,B Limited,0.1544673,gr,0.119768076,5.738022858,A. flos-aquae 3 LOW 9 B
+A. flos-aquae,9,3,LOW,3,C,22.09,22.09,,B Limited,0.348662073,gr,0.638205114,5.914502506,A. flos-aquae 3 LOW 9 C
+A. flos-aquae,9,3,NORM,3,D,22.09,22.09,,A Replete,0.408618992,gr,0.943910105,6.2764179,A. flos-aquae 3 NORM 9 D
+A. flos-aquae,9,3,NORM,3,E,22.09,22.09,,A Replete,0.611702321,gr,0.933337449,6.276511902,A. flos-aquae 3 NORM 9 E
+A. flos-aquae,9,3,NORM,3,F,22.09,22.09,,A Replete,0.52270478,gr,0.907804661,6.252847561,A. flos-aquae 3 NORM 9 F
+A. flos-aquae,10,1,LOW,4,A,15.66,25.43,Cold,B Limited,0.379016578,gr,0.846856167,6.007288682,A. flos-aquae 1 LOW 10 A
+A. flos-aquae,10,1,LOW,4,B,15.66,25.43,Cold,B Limited,0.412366883,gr,0.948757058,5.99293846,A. flos-aquae 1 LOW 10 B
+A. flos-aquae,10,1,LOW,4,C,15.66,25.43,Cold,B Limited,0.360696443,gr,0.934996086,5.967402361,A. flos-aquae 1 LOW 10 C
+A. flos-aquae,10,1,NORM,4,D,15.66,25.43,Cold,A Replete,0.791287544,gr,0.998421398,6.105172625,A. flos-aquae 1 NORM 10 D
+A. flos-aquae,10,1,NORM,4,E,15.66,25.43,Cold,A Replete,0.848560403,gr,0.968253093,6.162493414,A. flos-aquae 1 NORM 10 E
+A. flos-aquae,10,1,NORM,4,F,15.66,25.43,Cold,A Replete,0.813414711,gr,0.986841358,6.114566744,A. flos-aquae 1 NORM 10 F
+A. flos-aquae,11,8,LOW,4,A,39.09,25.43,Hot,B Limited,0.066345995,gr,0.34410202,6.11113469,A. flos-aquae 8 LOW 11 A
+A. flos-aquae,11,8,LOW,4,B,39.09,25.43,Hot,B Limited,0.007162476,gr,0.01126411,6.040921156,A. flos-aquae 8 LOW 11 B
+A. flos-aquae,11,8,LOW,4,C,39.09,25.43,Hot,B Limited,0.135864813,gr,0.934071419,6.065318916,A. flos-aquae 8 LOW 11 C
+A. flos-aquae,11,8,NORM,4,D,39.09,25.43,Hot,A Replete,0.379403508,gr,0.951686243,6.655002674,A. flos-aquae 8 NORM 11 D
+A. flos-aquae,11,8,NORM,4,E,39.09,25.43,Hot,A Replete,0.439416418,gr,0.960212347,6.586075098,A. flos-aquae 8 NORM 11 E
+A. flos-aquae,11,8,NORM,4,F,39.09,25.43,Hot,A Replete,0.452209616,gr,0.983817449,6.542976156,A. flos-aquae 8 NORM 11 F
+A. flos-aquae,12,4,LOW,4,A,25.43,25.43,,B Limited,-0.316536667,gr,0.883536876,5.882681515,A. flos-aquae 4 LOW 12 A
+A. flos-aquae,12,4,LOW,4,B,25.43,25.43,,B Limited,-0.034471703,gr,0.012927327,5.828180619,A. flos-aquae 4 LOW 12 B
+A. flos-aquae,12,4,LOW,4,C,25.43,25.43,,B Limited,0.131691391,gr,0.683962441,6.297882502,A. flos-aquae 4 LOW 12 C
+A. flos-aquae,12,4,NORM,4,D,25.43,25.43,,A Replete,0.721735698,gr,0.978614369,6.201340471,A. flos-aquae 4 NORM 12 D
+A. flos-aquae,12,4,NORM,4,E,25.43,25.43,,A Replete,0.717768552,gr,0.982997806,6.298949247,A. flos-aquae 4 NORM 12 E
+A. flos-aquae,12,4,NORM,4,F,25.43,25.43,,A Replete,0.768377279,gr,0.990622319,6.340306392,A. flos-aquae 4 NORM 12 F
+A. flos-aquae,13,1,LOW,5,A,15.66,28.63,Cold,B Limited,0.470093576,gr,0.848738519,5.918409866,A. flos-aquae 1 LOW 13 A
+A. flos-aquae,13,1,LOW,5,B,15.66,28.63,Cold,B Limited,0.366628442,gr,0.704046659,5.959483564,A. flos-aquae 1 LOW 13 B
+A. flos-aquae,13,1,LOW,5,C,15.66,28.63,Cold,B Limited,0.429263532,gr,0.85323804,6.067754067,A. flos-aquae 1 LOW 13 C
+A. flos-aquae,13,1,NORM,5,D,15.66,28.63,Cold,A Replete,0.890061518,gr,0.990007793,6.289121703,A. flos-aquae 1 NORM 13 D
+A. flos-aquae,13,1,NORM,5,E,15.66,28.63,Cold,A Replete,0.91735051,gr,0.973381986,6.166677565,A. flos-aquae 1 NORM 13 E
+A. flos-aquae,13,1,NORM,5,F,15.66,28.63,Cold,A Replete,0.866898315,gr,0.949957303,6.109114241,A. flos-aquae 1 NORM 13 F
+A. flos-aquae,14,8,LOW,5,A,39.09,28.63,Hot,B Limited,0.077969724,gr,0.835784734,6.106978343,A. flos-aquae 8 LOW 14 A
+A. flos-aquae,14,8,LOW,5,B,39.09,28.63,Hot,B Limited,0.00391857,gr,0.001353494,6.042086366,A. flos-aquae 8 LOW 14 B
+A. flos-aquae,14,8,LOW,5,C,39.09,28.63,Hot,B Limited,0.073758336,gr,0.83282963,6.096274911,A. flos-aquae 8 LOW 14 C
+A. flos-aquae,14,8,NORM,5,D,39.09,28.63,Hot,A Replete,0.527705009,gr,0.917244021,6.607271615,A. flos-aquae 8 NORM 14 D
+A. flos-aquae,14,8,NORM,5,E,39.09,28.63,Hot,A Replete,0.519067735,gr,0.953528711,6.630736155,A. flos-aquae 8 NORM 14 E
+A. flos-aquae,14,8,NORM,5,F,39.09,28.63,Hot,A Replete,0.453241579,gr,0.910462775,6.571065019,A. flos-aquae 8 NORM 14 F
+A. flos-aquae,15,5,LOW,5,A,28.63,28.63,,B Limited,-0.033603838,gr,0.407644892,5.735604087,A. flos-aquae 5 LOW 15 A
+A. flos-aquae,15,5,LOW,5,B,28.63,28.63,,B Limited,-0.289327862,gr,0.813363293,5.864397927,A. flos-aquae 5 LOW 15 B
+A. flos-aquae,15,5,LOW,5,C,28.63,28.63,,B Limited,-0.17220044,gr,0.612611818,6.024754245,A. flos-aquae 5 LOW 15 C
+A. flos-aquae,15,5,NORM,5,D,28.63,28.63,,A Replete,0.698723348,gr,0.997944033,6.415178789,A. flos-aquae 5 NORM 15 D
+A. flos-aquae,15,5,NORM,5,E,28.63,28.63,,A Replete,0.582676304,gr,0.970421293,6.546369255,A. flos-aquae 5 NORM 15 E
+A. flos-aquae,15,5,NORM,5,F,28.63,28.63,,A Replete,0.713600994,gr,0.999640154,6.402315127,A. flos-aquae 5 NORM 15 F
+A. flos-aquae,16,1,LOW,6,A,15.66,32.02,Cold,B Limited,0.508168784,gr,0.795877278,5.857447322,A. flos-aquae 1 LOW 16 A
+A. flos-aquae,16,1,LOW,6,B,15.66,32.02,Cold,B Limited,0.469613856,gr,0.96079238,5.91609424,A. flos-aquae 1 LOW 16 B
+A. flos-aquae,16,1,LOW,6,C,15.66,32.02,Cold,B Limited,0.526617241,gr,0.898231032,5.952385824,A. flos-aquae 1 LOW 16 C
+A. flos-aquae,16,1,NORM,6,D,15.66,32.02,Cold,A Replete,0.829858629,gr,0.975687954,6.108269327,A. flos-aquae 1 NORM 16 D
+A. flos-aquae,16,1,NORM,6,E,15.66,32.02,Cold,A Replete,0.842175599,gr,0.973815477,5.959896478,A. flos-aquae 1 NORM 16 E
+A. flos-aquae,16,1,NORM,6,F,15.66,32.02,Cold,A Replete,0.684841997,gr,0.994343712,6.080024724,A. flos-aquae 1 NORM 16 F
+A. flos-aquae,17,8,LOW,6,A,39.09,32.02,Hot,B Limited,0.147661598,gr,0.79015736,6.077022785,A. flos-aquae 8 LOW 17 A
+A. flos-aquae,17,8,LOW,6,B,39.09,32.02,Hot,B Limited,0.139543734,gr,0.911397424,6.125295895,A. flos-aquae 8 LOW 17 B
+A. flos-aquae,17,8,LOW,6,C,39.09,32.02,Hot,B Limited,0.02007744,gr,0.094536602,6.08201341,A. flos-aquae 8 LOW 17 C
+A. flos-aquae,17,8,NORM,6,D,39.09,32.02,Hot,A Replete,0.529678643,gr,0.929692509,6.618658873,A. flos-aquae 8 NORM 17 D
+A. flos-aquae,17,8,NORM,6,E,39.09,32.02,Hot,A Replete,0.518937534,gr,0.928894665,6.625803424,A. flos-aquae 8 NORM 17 E
+A. flos-aquae,17,8,NORM,6,F,39.09,32.02,Hot,A Replete,0.529429345,gr,0.911885729,6.573582397,A. flos-aquae 8 NORM 17 F
+A. flos-aquae,18,6,LOW,6,A,32.02,32.02,,B Limited,0.279678775,gr,0.902262889,5.485377678,A. flos-aquae 6 LOW 18 A
+A. flos-aquae,18,6,LOW,6,B,32.02,32.02,,B Limited,0.135845447,gr,0.919062783,5.66808621,A. flos-aquae 6 LOW 18 B
+A. flos-aquae,18,6,LOW,6,C,32.02,32.02,,B Limited,0.106519523,gr,0.481538288,5.36789007,A. flos-aquae 6 LOW 18 C
+A. flos-aquae,18,6,NORM,6,D,32.02,32.02,,A Replete,0.825118446,gr,0.997617266,6.502520144,A. flos-aquae 6 NORM 18 D
+A. flos-aquae,18,6,NORM,6,E,32.02,32.02,,A Replete,0.853287279,gr,0.998635514,6.578222906,A. flos-aquae 6 NORM 18 E
+A. flos-aquae,18,6,NORM,6,F,32.02,32.02,,A Replete,0.869495848,gr,0.994966739,6.574908463,A. flos-aquae 6 NORM 18 F
+A. flos-aquae,19,1,LOW,7,A,15.66,35.73,Cold,B Limited,0.587433084,gr,0.883817149,5.874649793,A. flos-aquae 1 LOW 19 A
+A. flos-aquae,19,1,LOW,7,B,15.66,35.73,Cold,B Limited,0.445327887,gr,0.860109104,5.930599271,A. flos-aquae 1 LOW 19 B
+A. flos-aquae,19,1,LOW,7,C,15.66,35.73,Cold,B Limited,0.252419571,gr,0.489803344,6.045763321,A. flos-aquae 1 LOW 19 C
+A. flos-aquae,19,1,NORM,7,D,15.66,35.73,Cold,A Replete,0.945787494,gr,0.98909769,6.124770914,A. flos-aquae 1 NORM 19 D
+A. flos-aquae,19,1,NORM,7,E,15.66,35.73,Cold,A Replete,0.916860109,gr,0.998606909,6.114588848,A. flos-aquae 1 NORM 19 E
+A. flos-aquae,19,1,NORM,7,F,15.66,35.73,Cold,A Replete,0.946195287,gr,0.985837059,6.052042109,A. flos-aquae 1 NORM 19 F
+A. flos-aquae,20,8,LOW,7,A,39.09,35.73,Hot,B Limited,0.175149725,gr,0.903331949,6.105239561,A. flos-aquae 8 LOW 20 A
+A. flos-aquae,20,8,LOW,7,B,39.09,35.73,Hot,B Limited,0.033952835,gr,0.144594357,6.120495202,A. flos-aquae 8 LOW 20 B
+A. flos-aquae,20,8,LOW,7,C,39.09,35.73,Hot,B Limited,0.235365302,gr,0.688017072,6.066896642,A. flos-aquae 8 LOW 20 C
+A. flos-aquae,20,8,NORM,7,D,39.09,35.73,Hot,A Replete,0.750855617,gr,0.984285872,6.590891533,A. flos-aquae 8 NORM 20 D
+A. flos-aquae,20,8,NORM,7,E,39.09,35.73,Hot,A Replete,0.664828717,gr,0.987546396,6.613478174,A. flos-aquae 8 NORM 20 E
+A. flos-aquae,20,8,NORM,7,F,39.09,35.73,Hot,A Replete,0.78516645,gr,0.972249457,6.484161841,A. flos-aquae 8 NORM 20 F
+A. flos-aquae,21,7,LOW,7,A,35.73,35.73,,B Limited,0.136254366,gr,0.67251242,6.187216346,A. flos-aquae 7 LOW 21 A
+A. flos-aquae,21,7,LOW,7,B,35.73,35.73,,B Limited,0.140402231,gr,0.757823766,6.168291872,A. flos-aquae 7 LOW 21 B
+A. flos-aquae,21,7,LOW,7,C,35.73,35.73,,B Limited,0.162284291,gr,0.898359234,6.080162002,A. flos-aquae 7 LOW 21 C
+A. flos-aquae,21,7,NORM,7,D,35.73,35.73,,A Replete,0.542797502,gr,0.997300244,6.733151861,A. flos-aquae 7 NORM 21 D
+A. flos-aquae,21,7,NORM,7,E,35.73,35.73,,A Replete,0.735950942,gr,0.959394907,6.488383926,A. flos-aquae 7 NORM 21 E
+A. flos-aquae,21,7,NORM,7,F,35.73,35.73,,A Replete,0.482135055,gr,0.970656566,6.570462706,A. flos-aquae 7 NORM 21 F
+A. flos-aquae,22,1,LOW,8,A,15.66,39.09,Cold,B Limited,0.418543167,gr,0.875297558,6.023568651,A. flos-aquae 1 LOW 22 A
+A. flos-aquae,22,1,LOW,8,B,15.66,39.09,Cold,B Limited,0.476921701,gr,0.875709705,5.929323151,A. flos-aquae 1 LOW 22 B
+A. flos-aquae,22,1,LOW,8,C,15.66,39.09,Cold,B Limited,0.371588179,gr,0.705451174,5.911473921,A. flos-aquae 1 LOW 22 C
+A. flos-aquae,22,1,NORM,8,D,15.66,39.09,Cold,A Replete,0.862579278,gr,0.997430757,6.071614941,A. flos-aquae 1 NORM 22 D
+A. flos-aquae,22,1,NORM,8,E,15.66,39.09,Cold,A Replete,0.940122359,gr,0.990574024,6.088591258,A. flos-aquae 1 NORM 22 E
+A. flos-aquae,22,1,NORM,8,F,15.66,39.09,Cold,A Replete,0.937166139,gr,0.997820405,6.03521824,A. flos-aquae 1 NORM 22 F
+A. flos-aquae,23,8,LOW,8,A,39.09,39.09,Hot,B Limited,0.161397322,gr,0.958020701,6.07274495,A. flos-aquae 8 LOW 23 A
+A. flos-aquae,23,8,LOW,8,B,39.09,39.09,Hot,B Limited,0.024488841,gr,0.749560906,6.131074304,A. flos-aquae 8 LOW 23 B
+A. flos-aquae,23,8,LOW,8,C,39.09,39.09,Hot,B Limited,0.074606691,gr,0.447079739,6.08205908,A. flos-aquae 8 LOW 23 C
+A. flos-aquae,23,8,NORM,8,D,39.09,39.09,Hot,A Replete,0.718003048,gr,0.994658847,6.525762527,A. flos-aquae 8 NORM 23 D
+A. flos-aquae,23,8,NORM,8,E,39.09,39.09,Hot,A Replete,0.752526834,gr,0.998929211,6.537763487,A. flos-aquae 8 NORM 23 E
+A. flos-aquae,23,8,NORM,8,F,39.09,39.09,Hot,A Replete,0.733531766,gr,0.999065665,6.509886247,A. flos-aquae 8 NORM 23 F
+A. flos-aquae,24,8,LOW,8,A,39.09,39.09,Hot,B Limited,0.068647128,gr,0.31547257,6.118603678,A. flos-aquae 8 LOW 24 A
+A. flos-aquae,24,8,LOW,8,B,39.09,39.09,Hot,B Limited,0.063843433,gr,0.833732513,6.049851373,A. flos-aquae 8 LOW 24 B
+A. flos-aquae,24,8,LOW,8,C,39.09,39.09,Hot,B Limited,0.199442729,gr,0.610426216,6.089792895,A. flos-aquae 8 LOW 24 C
+A. flos-aquae,24,8,NORM,8,D,39.09,39.09,Hot,A Replete,0.685300423,gr,0.970329655,6.649398972,A. flos-aquae 8 NORM 24 D
+A. flos-aquae,24,8,NORM,8,E,39.09,39.09,Hot,A Replete,0.643165619,gr,0.943704639,6.63952283,A. flos-aquae 8 NORM 24 E
+A. flos-aquae,24,8,NORM,8,F,39.09,39.09,Hot,A Replete,0.64721494,gr,0.988444939,6.584528927,A. flos-aquae 8 NORM 24 F
+A. flos-aquae,25,1,LOW,9,A,15.66,42.62,Cold,B Limited,0.255160781,gr,0.550768419,5.962756383,A. flos-aquae 1 LOW 25 A
+A. flos-aquae,25,1,LOW,9,B,15.66,42.62,Cold,B Limited,0.479552923,gr,0.998502578,5.931475661,A. flos-aquae 1 LOW 25 B
+A. flos-aquae,25,1,LOW,9,C,15.66,42.62,Cold,B Limited,0.276548896,gr,0.464335686,5.861099565,A. flos-aquae 1 LOW 25 C
+A. flos-aquae,25,1,NORM,9,D,15.66,42.62,Cold,A Replete,0.800195817,gr,0.988480046,6.084749951,A. flos-aquae 1 NORM 25 D
+A. flos-aquae,25,1,NORM,9,E,15.66,42.62,Cold,A Replete,0.624174273,gr,0.986019044,6.083656233,A. flos-aquae 1 NORM 25 E
+A. flos-aquae,25,1,NORM,9,F,15.66,42.62,Cold,A Replete,0.498787238,gr,0.999717222,6.06404099,A. flos-aquae 1 NORM 25 F
+A. flos-aquae,26,8,LOW,9,A,39.09,42.62,Hot,B Limited,0.124526232,gr,0.776204417,6.049143659,A. flos-aquae 8 LOW 26 A
+A. flos-aquae,26,8,LOW,9,B,39.09,42.62,Hot,B Limited,0.180210079,gr,0.802744208,6.077825713,A. flos-aquae 8 LOW 26 B
+A. flos-aquae,26,8,LOW,9,C,39.09,42.62,Hot,B Limited,0.189588081,gr,0.941992888,6.044365299,A. flos-aquae 8 LOW 26 C
+A. flos-aquae,26,8,NORM,9,D,39.09,42.62,Hot,A Replete,0.534914471,gr,0.972190648,6.538660672,A. flos-aquae 8 NORM 26 D
+A. flos-aquae,26,8,NORM,9,E,39.09,42.62,Hot,A Replete,0.63775536,gr,0.999814886,6.522945376,A. flos-aquae 8 NORM 26 E
+A. flos-aquae,26,8,NORM,9,F,39.09,42.62,Hot,A Replete,0.676748813,gr,0.998792273,6.519132539,A. flos-aquae 8 NORM 26 F
+A. flos-aquae,27,9,LOW,9,A,42.62,42.62,,B Limited,-0.150498191,gr,0.715048594,5.653401045,A. flos-aquae 9 LOW 27 A
+A. flos-aquae,27,9,LOW,9,B,42.62,42.62,,B Limited,-0.02602625,gr,0.174279023,5.811380485,A. flos-aquae 9 LOW 27 B
+A. flos-aquae,27,9,LOW,9,C,42.62,42.62,,B Limited,-0.114598332,gr,0.872943054,5.751174837,A. flos-aquae 9 LOW 27 C
+A. flos-aquae,27,9,NORM,9,D,42.62,42.62,,A Replete,0.472633697,gr,0.990899027,6.617443084,A. flos-aquae 9 NORM 27 D
+A. flos-aquae,27,9,NORM,9,E,42.62,42.62,,A Replete,0.297393011,gr,0.844332996,6.900569523,A. flos-aquae 9 NORM 27 E
+A. flos-aquae,27,9,NORM,9,F,42.62,42.62,,A Replete,0.446146591,gr,0.949859385,6.654745128,A. flos-aquae 9 NORM 27 F
+M. aeruginosa (non-toxic),1,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.292721997,gr,0.668264789,5.021904886,M. aeruginosa (non-toxic) 1 LOW 1 A
+M. aeruginosa (non-toxic),1,1,LOW,1,B,15.66,15.66,Cold,B Limited,0.368401847,gr,0.898409791,5.013364899,M. aeruginosa (non-toxic) 1 LOW 1 B
+M. aeruginosa (non-toxic),1,1,LOW,1,C,15.66,15.66,Cold,B Limited,0.347582718,gr,0.858492759,5.011035214,M. aeruginosa (non-toxic) 1 LOW 1 C
+M. aeruginosa (non-toxic),1,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.327900268,gr,0.953645287,5.072545364,M. aeruginosa (non-toxic) 1 NORM 1 D
+M. aeruginosa (non-toxic),1,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.318629666,gr,0.955459897,5.052864298,M. aeruginosa (non-toxic) 1 NORM 1 E
+M. aeruginosa (non-toxic),1,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.335605709,gr,0.965872881,5.063354238,M. aeruginosa (non-toxic) 1 NORM 1 F
+M. aeruginosa (non-toxic),2,7,LOW,1,A,35.73,15.66,Hot,B Limited,0.101412816,gr,0.771140741,4.548494009,M. aeruginosa (non-toxic) 7 LOW 2 A
+M. aeruginosa (non-toxic),2,7,LOW,1,B,35.73,15.66,Hot,B Limited,0.07473307,gr,0.204594951,4.544783036,M. aeruginosa (non-toxic) 7 LOW 2 B
+M. aeruginosa (non-toxic),2,7,LOW,1,C,35.73,15.66,Hot,B Limited,0.024541153,gr,0.027230356,4.547329186,M. aeruginosa (non-toxic) 7 LOW 2 C
+M. aeruginosa (non-toxic),2,7,NORM,1,D,35.73,15.66,Hot,A Replete,0.034117005,gr,0.030776539,4.976802706,M. aeruginosa (non-toxic) 7 NORM 2 D
+M. aeruginosa (non-toxic),2,7,NORM,1,E,35.73,15.66,Hot,A Replete,-0.009493784,gr,0.001984273,4.991928067,M. aeruginosa (non-toxic) 7 NORM 2 E
+M. aeruginosa (non-toxic),2,7,NORM,1,F,35.73,15.66,Hot,A Replete,0.071343153,gr,0.127363031,4.637250079,M. aeruginosa (non-toxic) 7 NORM 2 F
+M. aeruginosa (non-toxic),3,1,LOW,1,D,15.66,15.66,Cold,B Limited,0.339985926,gr,0.78971795,5.02585226,M. aeruginosa (non-toxic) 1 LOW 3 D
+M. aeruginosa (non-toxic),3,1,LOW,1,E,15.66,15.66,Cold,B Limited,0.270429909,gr,0.623134889,5.004415994,M. aeruginosa (non-toxic) 1 LOW 3 E
+M. aeruginosa (non-toxic),3,1,LOW,1,F,15.66,15.66,Cold,B Limited,0.227171632,gr,0.593401782,5.008900457,M. aeruginosa (non-toxic) 1 LOW 3 F
+M. aeruginosa (non-toxic),3,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.396627173,gr,0.964112564,5.066763548,M. aeruginosa (non-toxic) 1 NORM 3 D
+M. aeruginosa (non-toxic),3,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.387332301,gr,0.910639371,5.047095791,M. aeruginosa (non-toxic) 1 NORM 3 E
+M. aeruginosa (non-toxic),3,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.408768395,gr,0.947736128,5.049407189,M. aeruginosa (non-toxic) 1 NORM 3 F
+M. aeruginosa (non-toxic),4,1,LOW,2,A,15.66,18.48,Cold,B Limited,0.378646354,gr,0.884180166,5.030633981,M. aeruginosa (non-toxic) 1 LOW 4 A
+M. aeruginosa (non-toxic),4,1,LOW,2,B,15.66,18.48,Cold,B Limited,0.463884718,gr,0.838798037,5.028933522,M. aeruginosa (non-toxic) 1 LOW 4 B
+M. aeruginosa (non-toxic),4,1,LOW,2,C,15.66,18.48,Cold,B Limited,0.363645281,gr,0.774379013,5.047931079,M. aeruginosa (non-toxic) 1 LOW 4 C
+M. aeruginosa (non-toxic),4,1,NORM,2,D,15.66,18.48,Cold,A Replete,0.56680229,gr,0.987217749,5.070224086,M. aeruginosa (non-toxic) 1 NORM 4 D
+M. aeruginosa (non-toxic),4,1,NORM,2,E,15.66,18.48,Cold,A Replete,0.559047998,gr,0.997672003,5.063796842,M. aeruginosa (non-toxic) 1 NORM 4 E
+M. aeruginosa (non-toxic),4,1,NORM,2,F,15.66,18.48,Cold,A Replete,0.540002945,gr,0.997963145,5.075361298,M. aeruginosa (non-toxic) 1 NORM 4 F
+M. aeruginosa (non-toxic),5,7,LOW,2,A,35.73,18.48,Hot,B Limited,0.24664129,gr,0.800298757,4.54584472,M. aeruginosa (non-toxic) 7 LOW 5 A
+M. aeruginosa (non-toxic),5,7,LOW,2,B,35.73,18.48,Hot,B Limited,0.184883613,gr,0.885245469,4.517867858,M. aeruginosa (non-toxic) 7 LOW 5 B
+M. aeruginosa (non-toxic),5,7,LOW,2,C,35.73,18.48,Hot,B Limited,0.133612548,gr,0.754993464,4.534855012,M. aeruginosa (non-toxic) 7 LOW 5 C
+M. aeruginosa (non-toxic),5,7,NORM,2,D,35.73,18.48,Hot,A Replete,0.203216354,gr,0.815608505,4.972033056,M. aeruginosa (non-toxic) 7 NORM 5 D
+M. aeruginosa (non-toxic),5,7,NORM,2,E,35.73,18.48,Hot,A Replete,0.227325243,gr,0.90387366,4.986342602,M. aeruginosa (non-toxic) 7 NORM 5 E
+M. aeruginosa (non-toxic),5,7,NORM,2,F,35.73,18.48,Hot,A Replete,0.194074017,gr,0.815843678,4.980382251,M. aeruginosa (non-toxic) 7 NORM 5 F
+M. aeruginosa (non-toxic),6,2,LOW,2,A,18.48,18.48,,B Limited,0.343636392,gr,0.79325724,4.825269107,M. aeruginosa (non-toxic) 2 LOW 6 A
+M. aeruginosa (non-toxic),6,2,LOW,2,B,18.48,18.48,,B Limited,0.314767379,gr,0.686995133,4.841506331,M. aeruginosa (non-toxic) 2 LOW 6 B
+M. aeruginosa (non-toxic),6,2,LOW,2,C,18.48,18.48,,B Limited,0.297797218,gr,0.726098945,4.981549713,M. aeruginosa (non-toxic) 2 LOW 6 C
+M. aeruginosa (non-toxic),6,2,NORM,2,D,18.48,18.48,,A Replete,0.528027467,gr,0.992460438,5.005153631,M. aeruginosa (non-toxic) 2 NORM 6 D
+M. aeruginosa (non-toxic),6,2,NORM,2,E,18.48,18.48,,A Replete,0.504709105,gr,0.99257896,4.994641404,M. aeruginosa (non-toxic) 2 NORM 6 E
+M. aeruginosa (non-toxic),6,2,NORM,2,F,18.48,18.48,,A Replete,0.497032526,gr,0.996170262,5.047674142,M. aeruginosa (non-toxic) 2 NORM 6 F
+M. aeruginosa (non-toxic),7,1,LOW,3,A,15.66,22.09,Cold,B Limited,0.41794181,gr,0.799356624,5.014826499,M. aeruginosa (non-toxic) 1 LOW 7 A
+M. aeruginosa (non-toxic),7,1,LOW,3,B,15.66,22.09,Cold,B Limited,0.379264842,gr,0.775137409,5.007497042,M. aeruginosa (non-toxic) 1 LOW 7 B
+M. aeruginosa (non-toxic),7,1,LOW,3,C,15.66,22.09,Cold,B Limited,0.395926081,gr,0.729141278,5.013896637,M. aeruginosa (non-toxic) 1 LOW 7 C
+M. aeruginosa (non-toxic),7,1,NORM,3,D,15.66,22.09,Cold,A Replete,0.670316475,gr,0.999691931,5.066763548,M. aeruginosa (non-toxic) 1 NORM 7 D
+M. aeruginosa (non-toxic),7,1,NORM,3,E,15.66,22.09,Cold,A Replete,0.682811757,gr,0.999927766,5.077795376,M. aeruginosa (non-toxic) 1 NORM 7 E
+M. aeruginosa (non-toxic),7,1,NORM,3,F,15.66,22.09,Cold,A Replete,0.668850909,gr,0.999684162,5.067141644,M. aeruginosa (non-toxic) 1 NORM 7 F
+M. aeruginosa (non-toxic),8,7,LOW,3,A,35.73,22.09,Hot,B Limited,0.204827203,gr,0.585573597,4.506674939,M. aeruginosa (non-toxic) 7 LOW 8 A
+M. aeruginosa (non-toxic),8,7,LOW,3,B,35.73,22.09,Hot,B Limited,0.211078274,gr,0.779680919,4.525802251,M. aeruginosa (non-toxic) 7 LOW 8 B
+M. aeruginosa (non-toxic),8,7,LOW,3,C,35.73,22.09,Hot,B Limited,0.255198538,gr,0.814885779,4.538816685,M. aeruginosa (non-toxic) 7 LOW 8 C
+M. aeruginosa (non-toxic),8,7,NORM,3,D,35.73,22.09,Hot,A Replete,0.586786681,gr,0.984095397,4.980107356,M. aeruginosa (non-toxic) 7 NORM 8 D
+M. aeruginosa (non-toxic),8,7,NORM,3,E,35.73,22.09,Hot,A Replete,0.493245756,gr,0.998713155,4.970160462,M. aeruginosa (non-toxic) 7 NORM 8 E
+M. aeruginosa (non-toxic),8,7,NORM,3,F,35.73,22.09,Hot,A Replete,0.441452295,gr,0.88637372,4.98422287,M. aeruginosa (non-toxic) 7 NORM 8 F
+M. aeruginosa (non-toxic),9,3,LOW,3,A,22.09,22.09,,B Limited,0.384426012,gr,0.756081038,4.796203683,M. aeruginosa (non-toxic) 3 LOW 9 A
+M. aeruginosa (non-toxic),9,3,LOW,3,B,22.09,22.09,,B Limited,0.394653847,gr,0.818976573,4.812265653,M. aeruginosa (non-toxic) 3 LOW 9 B
+M. aeruginosa (non-toxic),9,3,LOW,3,C,22.09,22.09,,B Limited,0.363333496,gr,0.773608835,4.929497543,M. aeruginosa (non-toxic) 3 LOW 9 C
+M. aeruginosa (non-toxic),9,3,NORM,3,D,22.09,22.09,,A Replete,0.674553133,gr,0.99177824,5.081218012,M. aeruginosa (non-toxic) 3 NORM 9 D
+M. aeruginosa (non-toxic),9,3,NORM,3,E,22.09,22.09,,A Replete,0.549174959,gr,0.956554611,5.102849778,M. aeruginosa (non-toxic) 3 NORM 9 E
+M. aeruginosa (non-toxic),9,3,NORM,3,F,22.09,22.09,,A Replete,0.55580737,gr,0.993644982,5.111927546,M. aeruginosa (non-toxic) 3 NORM 9 F
+M. aeruginosa (non-toxic),10,1,LOW,4,A,15.66,25.43,Cold,B Limited,0.46669975,gr,0.651996244,4.98750313,M. aeruginosa (non-toxic) 1 LOW 10 A
+M. aeruginosa (non-toxic),10,1,LOW,4,B,15.66,25.43,Cold,B Limited,0.459113728,gr,0.840013568,5.024340941,M. aeruginosa (non-toxic) 1 LOW 10 B
+M. aeruginosa (non-toxic),10,1,LOW,4,C,15.66,25.43,Cold,B Limited,0.460435773,gr,0.789643572,5.033765711,M. aeruginosa (non-toxic) 1 LOW 10 C
+M. aeruginosa (non-toxic),10,1,NORM,4,D,15.66,25.43,Cold,A Replete,0.85424386,gr,0.997854006,5.081466475,M. aeruginosa (non-toxic) 1 NORM 10 D
+M. aeruginosa (non-toxic),10,1,NORM,4,E,15.66,25.43,Cold,A Replete,0.836275262,gr,0.997095556,5.077296561,M. aeruginosa (non-toxic) 1 NORM 10 E
+M. aeruginosa (non-toxic),10,1,NORM,4,F,15.66,25.43,Cold,A Replete,0.824372099,gr,0.995662059,5.059298466,M. aeruginosa (non-toxic) 1 NORM 10 F
+M. aeruginosa (non-toxic),11,7,LOW,4,A,35.73,25.43,Hot,B Limited,0.219990562,gr,0.724596644,4.564035643,M. aeruginosa (non-toxic) 7 LOW 11 A
+M. aeruginosa (non-toxic),11,7,LOW,4,B,35.73,25.43,Hot,B Limited,0.214422037,gr,0.721829745,4.535605723,M. aeruginosa (non-toxic) 7 LOW 11 B
+M. aeruginosa (non-toxic),11,7,LOW,4,C,35.73,25.43,Hot,B Limited,0.221778167,gr,0.675443262,4.540418309,M. aeruginosa (non-toxic) 7 LOW 11 C
+M. aeruginosa (non-toxic),11,7,NORM,4,D,35.73,25.43,Hot,A Replete,0.649065528,gr,0.994049317,4.980725764,M. aeruginosa (non-toxic) 7 NORM 11 D
+M. aeruginosa (non-toxic),11,7,NORM,4,E,35.73,25.43,Hot,A Replete,0.581082037,gr,0.994092829,4.987707789,M. aeruginosa (non-toxic) 7 NORM 11 E
+M. aeruginosa (non-toxic),11,7,NORM,4,F,35.73,25.43,Hot,A Replete,0.60052581,gr,0.995713317,4.986410905,M. aeruginosa (non-toxic) 7 NORM 11 F
+M. aeruginosa (non-toxic),12,4,LOW,4,A,25.43,25.43,,B Limited,0.133248034,gr,0.599290181,4.88416463,M. aeruginosa (non-toxic) 4 LOW 12 A
+M. aeruginosa (non-toxic),12,4,LOW,4,B,25.43,25.43,,B Limited,0.092640423,gr,0.420480744,4.901787222,M. aeruginosa (non-toxic) 4 LOW 12 B
+M. aeruginosa (non-toxic),12,4,LOW,4,C,25.43,25.43,,B Limited,0.082391346,gr,0.283739179,5.039352318,M. aeruginosa (non-toxic) 4 LOW 12 C
+M. aeruginosa (non-toxic),12,4,NORM,4,D,25.43,25.43,,A Replete,0.824731217,gr,0.993672004,5.125391531,M. aeruginosa (non-toxic) 4 NORM 12 D
+M. aeruginosa (non-toxic),12,4,NORM,4,E,25.43,25.43,,A Replete,0.815239262,gr,0.991669896,5.11433443,M. aeruginosa (non-toxic) 4 NORM 12 E
+M. aeruginosa (non-toxic),12,4,NORM,4,F,25.43,25.43,,A Replete,0.795151462,gr,0.999655565,5.149701342,M. aeruginosa (non-toxic) 4 NORM 12 F
+M. aeruginosa (non-toxic),13,1,LOW,5,A,15.66,28.63,Cold,B Limited,0.449155906,gr,0.8105915,5.023946308,M. aeruginosa (non-toxic) 1 LOW 13 A
+M. aeruginosa (non-toxic),13,1,LOW,5,B,15.66,28.63,Cold,B Limited,0.451260595,gr,0.838531777,5.029129877,M. aeruginosa (non-toxic) 1 LOW 13 B
+M. aeruginosa (non-toxic),13,1,LOW,5,C,15.66,28.63,Cold,B Limited,0.476704121,gr,0.807829875,5.035978102,M. aeruginosa (non-toxic) 1 LOW 13 C
+M. aeruginosa (non-toxic),13,1,NORM,5,D,15.66,28.63,Cold,A Replete,0.844682061,gr,0.988072836,5.089508087,M. aeruginosa (non-toxic) 1 NORM 13 D
+M. aeruginosa (non-toxic),13,1,NORM,5,E,15.66,28.63,Cold,A Replete,0.877954938,gr,0.991474095,5.08351394,M. aeruginosa (non-toxic) 1 NORM 13 E
+M. aeruginosa (non-toxic),13,1,NORM,5,F,15.66,28.63,Cold,A Replete,0.89178126,gr,0.994988104,5.083823796,M. aeruginosa (non-toxic) 1 NORM 13 F
+M. aeruginosa (non-toxic),14,7,LOW,5,A,35.73,28.63,Hot,B Limited,0.221084912,gr,0.701381222,4.548705649,M. aeruginosa (non-toxic) 7 LOW 14 A
+M. aeruginosa (non-toxic),14,7,LOW,5,B,35.73,28.63,Hot,B Limited,0.178565478,gr,0.541304597,4.543826556,M. aeruginosa (non-toxic) 7 LOW 14 B
+M. aeruginosa (non-toxic),14,7,LOW,5,C,35.73,28.63,Hot,B Limited,0.220030036,gr,0.625441807,4.53774751,M. aeruginosa (non-toxic) 7 LOW 14 C
+M. aeruginosa (non-toxic),14,7,NORM,5,D,35.73,28.63,Hot,A Replete,0.685487527,gr,0.996779502,4.974317031,M. aeruginosa (non-toxic) 7 NORM 14 D
+M. aeruginosa (non-toxic),14,7,NORM,5,E,35.73,28.63,Hot,A Replete,0.645630762,gr,0.984816528,4.983332612,M. aeruginosa (non-toxic) 7 NORM 14 E
+M. aeruginosa (non-toxic),14,7,NORM,5,F,35.73,28.63,Hot,A Replete,0.658057063,gr,0.993315125,4.977836582,M. aeruginosa (non-toxic) 7 NORM 14 F
+M. aeruginosa (non-toxic),15,5,LOW,5,A,28.63,28.63,,B Limited,0.150695798,gr,0.648806347,4.768563733,M. aeruginosa (non-toxic) 5 LOW 15 A
+M. aeruginosa (non-toxic),15,5,LOW,5,B,28.63,28.63,,B Limited,0.134928997,gr,0.799999643,4.7925622,M. aeruginosa (non-toxic) 5 LOW 15 B
+M. aeruginosa (non-toxic),15,5,LOW,5,C,28.63,28.63,,B Limited,0.131217006,gr,0.541174021,4.961304984,M. aeruginosa (non-toxic) 5 LOW 15 C
+M. aeruginosa (non-toxic),15,5,NORM,5,D,28.63,28.63,,A Replete,0.968898114,gr,0.994595887,5.080099166,M. aeruginosa (non-toxic) 5 NORM 15 D
+M. aeruginosa (non-toxic),15,5,NORM,5,E,28.63,28.63,,A Replete,0.834110702,gr,0.990146574,5.082955956,M. aeruginosa (non-toxic) 5 NORM 15 E
+M. aeruginosa (non-toxic),15,5,NORM,5,F,28.63,28.63,,A Replete,0.752199256,gr,0.998707273,5.11937011,M. aeruginosa (non-toxic) 5 NORM 15 F
+M. aeruginosa (non-toxic),16,1,LOW,6,A,15.66,32.02,Cold,B Limited,0.5075822,gr,0.895353598,5.02322241,M. aeruginosa (non-toxic) 1 LOW 16 A
+M. aeruginosa (non-toxic),16,1,LOW,6,B,15.66,32.02,Cold,B Limited,0.437135202,gr,0.791648038,5.026443024,M. aeruginosa (non-toxic) 1 LOW 16 B
+M. aeruginosa (non-toxic),16,1,LOW,6,C,15.66,32.02,Cold,B Limited,0.456387606,gr,0.800862226,5.024735418,M. aeruginosa (non-toxic) 1 LOW 16 C
+M. aeruginosa (non-toxic),16,1,NORM,6,D,15.66,32.02,Cold,A Replete,0.752071613,gr,0.995242398,5.09184655,M. aeruginosa (non-toxic) 1 NORM 16 D
+M. aeruginosa (non-toxic),16,1,NORM,6,E,15.66,32.02,Cold,A Replete,0.728884742,gr,0.993324916,5.091723609,M. aeruginosa (non-toxic) 1 NORM 16 E
+M. aeruginosa (non-toxic),16,1,NORM,6,F,15.66,32.02,Cold,A Replete,0.718518348,gr,0.996643355,5.094486126,M. aeruginosa (non-toxic) 1 NORM 16 F
+M. aeruginosa (non-toxic),17,7,LOW,6,A,35.73,32.02,Hot,B Limited,0.182036669,gr,0.755629174,4.552507533,M. aeruginosa (non-toxic) 7 LOW 17 A
+M. aeruginosa (non-toxic),17,7,LOW,6,B,35.73,32.02,Hot,B Limited,0.224793543,gr,0.805999959,4.55933565,M. aeruginosa (non-toxic) 7 LOW 17 B
+M. aeruginosa (non-toxic),17,7,LOW,6,C,35.73,32.02,Hot,B Limited,0.231661343,gr,0.762160265,4.544358047,M. aeruginosa (non-toxic) 7 LOW 17 C
+M. aeruginosa (non-toxic),17,7,NORM,6,D,35.73,32.02,Hot,A Replete,0.748079998,gr,0.992427953,4.979007019,M. aeruginosa (non-toxic) 7 NORM 17 D
+M. aeruginosa (non-toxic),17,7,NORM,6,E,35.73,32.02,Hot,A Replete,0.633226943,gr,0.993732398,4.984291319,M. aeruginosa (non-toxic) 7 NORM 17 E
+M. aeruginosa (non-toxic),17,7,NORM,6,F,35.73,32.02,Hot,A Replete,0.585418361,gr,0.998632154,4.980176087,M. aeruginosa (non-toxic) 7 NORM 17 F
+M. aeruginosa (non-toxic),18,6,LOW,6,A,32.02,32.02,,B Limited,0.197551196,gr,0.753412587,4.786491242,M. aeruginosa (non-toxic) 6 LOW 18 A
+M. aeruginosa (non-toxic),18,6,LOW,6,B,32.02,32.02,,B Limited,0.167853079,gr,0.867189058,4.796864349,M. aeruginosa (non-toxic) 6 LOW 18 B
+M. aeruginosa (non-toxic),18,6,LOW,6,C,32.02,32.02,,B Limited,0.169958471,gr,0.771053017,4.955193054,M. aeruginosa (non-toxic) 6 LOW 18 C
+M. aeruginosa (non-toxic),18,6,NORM,6,D,32.02,32.02,,A Replete,0.866951081,gr,0.994035102,5.23883272,M. aeruginosa (non-toxic) 6 NORM 18 D
+M. aeruginosa (non-toxic),18,6,NORM,6,E,32.02,32.02,,A Replete,0.856784203,gr,0.997246167,5.243544341,M. aeruginosa (non-toxic) 6 NORM 18 E
+M. aeruginosa (non-toxic),18,6,NORM,6,F,32.02,32.02,,A Replete,0.791874234,gr,0.99839218,5.262327429,M. aeruginosa (non-toxic) 6 NORM 18 F
+M. aeruginosa (non-toxic),19,1,LOW,7,A,15.66,35.73,Cold,B Limited,0.43846237,gr,0.760736203,5.020585625,M. aeruginosa (non-toxic) 1 LOW 19 A
+M. aeruginosa (non-toxic),19,1,LOW,7,B,15.66,35.73,Cold,B Limited,0.440943683,gr,0.845833231,5.030241824,M. aeruginosa (non-toxic) 1 LOW 19 B
+M. aeruginosa (non-toxic),19,1,LOW,7,C,15.66,35.73,Cold,B Limited,0.426545887,gr,0.803268098,5.017809498,M. aeruginosa (non-toxic) 1 LOW 19 C
+M. aeruginosa (non-toxic),19,1,NORM,7,D,15.66,35.73,Cold,A Replete,0.788874999,gr,0.994822846,5.100658797,M. aeruginosa (non-toxic) 1 NORM 19 D
+M. aeruginosa (non-toxic),19,1,NORM,7,E,15.66,35.73,Cold,A Replete,0.729215207,gr,0.994260018,5.104671936,M. aeruginosa (non-toxic) 1 NORM 19 E
+M. aeruginosa (non-toxic),19,1,NORM,7,F,15.66,35.73,Cold,A Replete,0.730716235,gr,0.988189536,5.08666998,M. aeruginosa (non-toxic) 1 NORM 19 F
+M. aeruginosa (non-toxic),20,7,LOW,7,A,35.73,35.73,Hot,B Limited,0.116650824,gr,0.638797238,4.54340116,M. aeruginosa (non-toxic) 7 LOW 20 A
+M. aeruginosa (non-toxic),20,7,LOW,7,B,35.73,35.73,Hot,B Limited,0.147277614,gr,0.662393226,4.553666343,M. aeruginosa (non-toxic) 7 LOW 20 B
+M. aeruginosa (non-toxic),20,7,LOW,7,C,35.73,35.73,Hot,B Limited,0.135176539,gr,0.920147641,4.553350437,M. aeruginosa (non-toxic) 7 LOW 20 C
+M. aeruginosa (non-toxic),20,7,NORM,7,D,35.73,35.73,Hot,A Replete,0.722622917,gr,0.995298484,4.97231018,M. aeruginosa (non-toxic) 7 NORM 20 D
+M. aeruginosa (non-toxic),20,7,NORM,7,E,35.73,35.73,Hot,A Replete,0.831274345,gr,0.998563092,4.981412435,M. aeruginosa (non-toxic) 7 NORM 20 E
+M. aeruginosa (non-toxic),20,7,NORM,7,F,35.73,35.73,Hot,A Replete,0.743894993,gr,0.999428436,4.978387547,M. aeruginosa (non-toxic) 7 NORM 20 F
+M. aeruginosa (non-toxic),21,7,LOW,7,A,35.73,35.73,Hot,B Limited,0.234325888,gr,0.954800971,4.552718326,M. aeruginosa (non-toxic) 7 LOW 21 A
+M. aeruginosa (non-toxic),21,7,LOW,7,B,35.73,35.73,Hot,B Limited,0.121982746,gr,0.706357944,4.585069514,M. aeruginosa (non-toxic) 7 LOW 21 B
+M. aeruginosa (non-toxic),21,7,LOW,7,C,35.73,35.73,Hot,B Limited,0.134156474,gr,0.68301294,4.57522631,M. aeruginosa (non-toxic) 7 LOW 21 C
+M. aeruginosa (non-toxic),21,7,NORM,7,D,35.73,35.73,Hot,A Replete,0.512555366,gr,0.997665428,4.968632047,M. aeruginosa (non-toxic) 7 NORM 21 D
+M. aeruginosa (non-toxic),21,7,NORM,7,E,35.73,35.73,Hot,A Replete,0.504394576,gr,0.98279276,4.968492984,M. aeruginosa (non-toxic) 7 NORM 21 E
+M. aeruginosa (non-toxic),21,7,NORM,7,F,35.73,35.73,Hot,A Replete,0.529380966,gr,0.965322264,4.978869391,M. aeruginosa (non-toxic) 7 NORM 21 F
+M. aeruginosa (non-toxic),22,1,LOW,8,A,15.66,39.09,Cold,B Limited,0.433893642,gr,0.798478022,5.016617366,M. aeruginosa (non-toxic) 1 LOW 22 A
+M. aeruginosa (non-toxic),22,1,LOW,8,B,15.66,39.09,Cold,B Limited,0.438753481,gr,0.842642826,5.027885648,M. aeruginosa (non-toxic) 1 LOW 22 B
+M. aeruginosa (non-toxic),22,1,LOW,8,C,15.66,39.09,Cold,B Limited,0.449992534,gr,0.837996015,5.023156575,M. aeruginosa (non-toxic) 1 LOW 22 C
+M. aeruginosa (non-toxic),22,1,NORM,8,D,15.66,39.09,Cold,A Replete,-0.028329418,gr,0.004648468,5.013298412,M. aeruginosa (non-toxic) 1 NORM 22 D
+M. aeruginosa (non-toxic),22,1,NORM,8,E,15.66,39.09,Cold,A Replete,-0.043303381,gr,0.01141841,4.979075825,M. aeruginosa (non-toxic) 1 NORM 22 E
+M. aeruginosa (non-toxic),22,1,NORM,8,F,15.66,39.09,Cold,A Replete,-0.047245399,gr,0.013437941,4.978869391,M. aeruginosa (non-toxic) 1 NORM 22 F
+M. aeruginosa (non-toxic),23,7,LOW,8,A,35.73,39.09,Hot,B Limited,-0.165705841,gr,0.376174001,4.247208701,M. aeruginosa (non-toxic) 7 LOW 23 A
+M. aeruginosa (non-toxic),23,7,LOW,8,B,35.73,39.09,Hot,B Limited,-0.143522214,gr,0.333375106,4.271653577,M. aeruginosa (non-toxic) 7 LOW 23 B
+M. aeruginosa (non-toxic),23,7,LOW,8,C,35.73,39.09,Hot,B Limited,-0.233518263,gr,0.483594633,4.120661871,M. aeruginosa (non-toxic) 7 LOW 23 C
+M. aeruginosa (non-toxic),23,7,NORM,8,D,35.73,39.09,Hot,A Replete,-0.525569471,gr,0.824956398,4.001863709,M. aeruginosa (non-toxic) 7 NORM 23 D
+M. aeruginosa (non-toxic),23,7,NORM,8,E,35.73,39.09,Hot,A Replete,-0.566857716,gr,0.909282964,3.927699485,M. aeruginosa (non-toxic) 7 NORM 23 E
+M. aeruginosa (non-toxic),23,7,NORM,8,F,35.73,39.09,Hot,A Replete,-0.500884841,gr,0.845998149,4.05681575,M. aeruginosa (non-toxic) 7 NORM 23 F
+M. aeruginosa (non-toxic),24,8,LOW,8,A,39.09,39.09,,B Limited,-0.131724932,gr,0.929820851,3.062455906,M. aeruginosa (non-toxic) 8 LOW 24 A
+M. aeruginosa (non-toxic),24,8,LOW,8,B,39.09,39.09,,B Limited,-0.118463083,gr,0.919826543,2.975019232,M. aeruginosa (non-toxic) 8 LOW 24 B
+M. aeruginosa (non-toxic),24,8,LOW,8,C,39.09,39.09,,B Limited,-0.124704452,gr,0.968004834,2.978077338,M. aeruginosa (non-toxic) 8 LOW 24 C
+M. aeruginosa (non-toxic),24,8,NORM,8,D,39.09,39.09,,A Replete,-0.087604569,gr,0.922734361,4.484357566,M. aeruginosa (non-toxic) 8 NORM 24 D
+M. aeruginosa (non-toxic),24,8,NORM,8,E,39.09,39.09,,A Replete,-0.07269344,gr,0.897871746,4.490320344,M. aeruginosa (non-toxic) 8 NORM 24 E
+M. aeruginosa (non-toxic),24,8,NORM,8,F,39.09,39.09,,A Replete,-0.060739109,gr,0.760585116,4.512067568,M. aeruginosa (non-toxic) 8 NORM 24 F
+M. aeruginosa (non-toxic),25,1,LOW,9,A,15.66,42.62,Cold,B Limited,-0.313856619,gr,0.458181654,4.417514428,M. aeruginosa (non-toxic) 1 LOW 25 A
+M. aeruginosa (non-toxic),25,1,LOW,9,B,15.66,42.62,Cold,B Limited,-0.310977598,gr,0.459631301,4.416065677,M. aeruginosa (non-toxic) 1 LOW 25 B
+M. aeruginosa (non-toxic),25,1,LOW,9,C,15.66,42.62,Cold,B Limited,-0.217272194,gr,0.383614038,4.607267984,M. aeruginosa (non-toxic) 1 LOW 25 C
+M. aeruginosa (non-toxic),25,1,NORM,9,D,15.66,42.62,Cold,A Replete,-0.623587211,gr,0.743004954,3.915815804,M. aeruginosa (non-toxic) 1 NORM 25 D
+M. aeruginosa (non-toxic),25,1,NORM,9,E,15.66,42.62,Cold,A Replete,-0.500824323,gr,0.587667987,4.150094577,M. aeruginosa (non-toxic) 1 NORM 25 E
+M. aeruginosa (non-toxic),25,1,NORM,9,F,15.66,42.62,Cold,A Replete,-0.397711643,gr,0.569832963,4.33938006,M. aeruginosa (non-toxic) 1 NORM 25 F
+M. aeruginosa (non-toxic),26,7,LOW,9,A,35.73,42.62,Hot,B Limited,-0.648436981,gr,0.926748854,3.323596136,M. aeruginosa (non-toxic) 7 LOW 26 A
+M. aeruginosa (non-toxic),26,7,LOW,9,B,35.73,42.62,Hot,B Limited,-0.743694669,gr,0.945996966,3.199896858,M. aeruginosa (non-toxic) 7 LOW 26 B
+M. aeruginosa (non-toxic),26,7,LOW,9,C,35.73,42.62,Hot,B Limited,-0.709661722,gr,0.949091953,3.251536607,M. aeruginosa (non-toxic) 7 LOW 26 C
+M. aeruginosa (non-toxic),26,7,NORM,9,D,35.73,42.62,Hot,A Replete,-0.823372734,gr,0.903030982,3.461351304,M. aeruginosa (non-toxic) 7 NORM 26 D
+M. aeruginosa (non-toxic),26,7,NORM,9,E,35.73,42.62,Hot,A Replete,-0.894114533,gr,0.94820423,3.328985048,M. aeruginosa (non-toxic) 7 NORM 26 E
+M. aeruginosa (non-toxic),26,7,NORM,9,F,35.73,42.62,Hot,A Replete,-0.932305986,gr,0.945367727,3.27336401,M. aeruginosa (non-toxic) 7 NORM 26 F
+M. aeruginosa (non-toxic),27,9,LOW,9,A,42.62,42.62,,B Limited,-0.127288799,gr,0.897583544,2.84549061,M. aeruginosa (non-toxic) 9 LOW 27 A
+M. aeruginosa (non-toxic),27,9,LOW,9,B,42.62,42.62,,B Limited,-0.096139015,gr,0.931722834,2.799108932,M. aeruginosa (non-toxic) 9 LOW 27 B
+M. aeruginosa (non-toxic),27,9,LOW,9,C,42.62,42.62,,B Limited,-0.111974619,gr,0.718351043,2.729159164,M. aeruginosa (non-toxic) 9 LOW 27 C
+M. aeruginosa (non-toxic),27,9,NORM,9,D,42.62,42.62,,A Replete,-0.041867821,gr,0.485680164,4.536891345,M. aeruginosa (non-toxic) 9 NORM 27 D
+M. aeruginosa (non-toxic),27,9,NORM,9,E,42.62,42.62,,A Replete,-0.041078072,gr,0.22973543,4.495020442,M. aeruginosa (non-toxic) 9 NORM 27 E
+M. aeruginosa (non-toxic),27,9,NORM,9,F,42.62,42.62,,A Replete,-0.043382166,gr,0.279355236,4.519285447,M. aeruginosa (non-toxic) 9 NORM 27 F
+M. aeruginosa (toxic),1,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.311191421,gr,0.780535942,5.152482018,M. aeruginosa (toxic) 1 LOW 1 A
+M. aeruginosa (toxic),1,1,LOW,1,B,15.66,15.66,Cold,B Limited,0.271833458,gr,0.696449997,5.175301916,M. aeruginosa (toxic) 1 LOW 1 B
+M. aeruginosa (toxic),1,1,LOW,1,C,15.66,15.66,Cold,B Limited,0.251711957,gr,0.809189975,5.181277804,M. aeruginosa (toxic) 1 LOW 1 C
+M. aeruginosa (toxic),1,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.304772766,gr,0.908591209,4.953147414,M. aeruginosa (toxic) 1 NORM 1 D
+M. aeruginosa (toxic),1,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.273398203,gr,0.90550375,5.004013418,M. aeruginosa (toxic) 1 NORM 1 E
+M. aeruginosa (toxic),1,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.285942793,gr,0.921437189,4.983058526,M. aeruginosa (toxic) 1 NORM 1 F
+M. aeruginosa (toxic),2,8,LOW,1,A,39.09,15.66,Hot,B Limited,0.108990324,gr,0.292942659,5.190954848,M. aeruginosa (toxic) 8 LOW 2 A
+M. aeruginosa (toxic),2,8,LOW,1,B,39.09,15.66,Hot,B Limited,0.125664015,gr,0.45022416,5.191066176,M. aeruginosa (toxic) 8 LOW 2 B
+M. aeruginosa (toxic),2,8,LOW,1,C,39.09,15.66,Hot,B Limited,0.103854334,gr,0.245858668,5.185204658,M. aeruginosa (toxic) 8 LOW 2 C
+M. aeruginosa (toxic),2,8,NORM,1,D,39.09,15.66,Hot,A Replete,0.02610184,gr,0.493880541,4.675162558,M. aeruginosa (toxic) 8 NORM 2 D
+M. aeruginosa (toxic),2,8,NORM,1,E,39.09,15.66,Hot,A Replete,0.039496816,gr,0.686296809,4.629082006,M. aeruginosa (toxic) 8 NORM 2 E
+M. aeruginosa (toxic),2,8,NORM,1,F,39.09,15.66,Hot,A Replete,-0.007062752,gr,0.061265496,4.622420539,M. aeruginosa (toxic) 8 NORM 2 F
+M. aeruginosa (toxic),3,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.111680511,gr,0.469417013,5.139438861,M. aeruginosa (toxic) 1 LOW 3 A
+M. aeruginosa (toxic),3,1,LOW,1,B,15.66,15.66,Cold,B Limited,0.15189072,gr,0.489264536,5.123904454,M. aeruginosa (toxic) 1 LOW 3 B
+M. aeruginosa (toxic),3,1,LOW,1,C,15.66,15.66,Cold,B Limited,0.144541596,gr,0.461230694,5.121818823,M. aeruginosa (toxic) 1 LOW 3 C
+M. aeruginosa (toxic),3,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.229561786,gr,0.943118613,5.027754586,M. aeruginosa (toxic) 1 NORM 3 D
+M. aeruginosa (toxic),3,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.208096077,gr,0.986815626,5.050753041,M. aeruginosa (toxic) 1 NORM 3 E
+M. aeruginosa (toxic),3,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.256361068,gr,0.941151411,5.06928149,M. aeruginosa (toxic) 1 NORM 3 F
+M. aeruginosa (toxic),4,1,LOW,2,A,15.66,18.48,Cold,B Limited,0.310017682,gr,0.923341269,5.12473749,M. aeruginosa (toxic) 1 LOW 4 A
+M. aeruginosa (toxic),4,1,LOW,2,B,15.66,18.48,Cold,B Limited,0.326261703,gr,0.820738852,5.197225505,M. aeruginosa (toxic) 1 LOW 4 B
+M. aeruginosa (toxic),4,1,LOW,2,C,15.66,18.48,Cold,B Limited,0.353964777,gr,0.822222,5.134503481,M. aeruginosa (toxic) 1 LOW 4 C
+M. aeruginosa (toxic),4,1,NORM,2,D,15.66,18.48,Cold,A Replete,0.50068031,gr,0.981308424,5.000584958,M. aeruginosa (toxic) 1 NORM 4 D
+M. aeruginosa (toxic),4,1,NORM,2,E,15.66,18.48,Cold,A Replete,0.540992439,gr,0.973060884,4.995657011,M. aeruginosa (toxic) 1 NORM 4 E
+M. aeruginosa (toxic),4,1,NORM,2,F,15.66,18.48,Cold,A Replete,0.517279487,gr,0.981296509,5.007296393,M. aeruginosa (toxic) 1 NORM 4 F
+M. aeruginosa (toxic),5,8,LOW,2,A,39.09,18.48,Hot,B Limited,0.155072066,gr,0.56633842,5.166955048,M. aeruginosa (toxic) 8 LOW 5 A
+M. aeruginosa (toxic),5,8,LOW,2,B,39.09,18.48,Hot,B Limited,0.207779447,gr,0.591361471,5.181895904,M. aeruginosa (toxic) 8 LOW 5 B
+M. aeruginosa (toxic),5,8,LOW,2,C,39.09,18.48,Hot,B Limited,0.146748018,gr,0.33744395,5.169460744,M. aeruginosa (toxic) 8 LOW 5 C
+M. aeruginosa (toxic),5,8,NORM,2,D,39.09,18.48,Hot,A Replete,0.108427018,gr,0.81264231,4.692997896,M. aeruginosa (toxic) 8 NORM 5 D
+M. aeruginosa (toxic),5,8,NORM,2,E,39.09,18.48,Hot,A Replete,0.103137919,gr,0.732044739,4.626735964,M. aeruginosa (toxic) 8 NORM 5 E
+M. aeruginosa (toxic),5,8,NORM,2,F,39.09,18.48,Hot,A Replete,0.085409237,gr,0.723173757,4.619960271,M. aeruginosa (toxic) 8 NORM 5 F
+M. aeruginosa (toxic),6,2,LOW,2,A,18.48,18.48,,B Limited,0.160173198,gr,0.524762297,5.226391627,M. aeruginosa (toxic) 2 LOW 6 A
+M. aeruginosa (toxic),6,2,LOW,2,B,18.48,18.48,,B Limited,0.181170106,gr,0.434492259,5.154677916,M. aeruginosa (toxic) 2 LOW 6 B
+M. aeruginosa (toxic),6,2,LOW,2,C,18.48,18.48,,B Limited,0.221234291,gr,0.498730915,5.140727446,M. aeruginosa (toxic) 2 LOW 6 C
+M. aeruginosa (toxic),6,2,NORM,2,D,18.48,18.48,,A Replete,0.565968555,gr,0.979031408,5.05465218,M. aeruginosa (toxic) 2 NORM 6 D
+M. aeruginosa (toxic),6,2,NORM,2,E,18.48,18.48,,A Replete,0.564525447,gr,0.983559006,5.079103584,M. aeruginosa (toxic) 2 NORM 6 E
+M. aeruginosa (toxic),6,2,NORM,2,F,18.48,18.48,,A Replete,0.547268404,gr,0.974301131,5.102484948,M. aeruginosa (toxic) 2 NORM 6 F
+M. aeruginosa (toxic),7,1,LOW,3,A,15.66,22.09,Cold,B Limited,0.329083778,gr,0.920832073,5.149643329,M. aeruginosa (toxic) 1 LOW 7 A
+M. aeruginosa (toxic),7,1,LOW,3,B,15.66,22.09,Cold,B Limited,0.306538208,gr,0.828675016,5.147727008,M. aeruginosa (toxic) 1 LOW 7 B
+M. aeruginosa (toxic),7,1,LOW,3,C,15.66,22.09,Cold,B Limited,0.335743748,gr,0.816385325,5.152366311,M. aeruginosa (toxic) 1 LOW 7 C
+M. aeruginosa (toxic),7,1,NORM,3,D,15.66,22.09,Cold,A Replete,0.617225798,gr,0.993604155,5.001325425,M. aeruginosa (toxic) 1 NORM 7 D
+M. aeruginosa (toxic),7,1,NORM,3,E,15.66,22.09,Cold,A Replete,0.638654778,gr,0.996234711,4.986547499,M. aeruginosa (toxic) 1 NORM 7 E
+M. aeruginosa (toxic),7,1,NORM,3,F,15.66,22.09,Cold,A Replete,0.632875864,gr,0.995806548,4.994302639,M. aeruginosa (toxic) 1 NORM 7 F
+M. aeruginosa (toxic),8,8,LOW,3,A,39.09,22.09,Hot,B Limited,0.124684903,gr,0.593456803,5.166099397,M. aeruginosa (toxic) 8 LOW 8 A
+M. aeruginosa (toxic),8,8,LOW,3,B,39.09,22.09,Hot,B Limited,0.107727681,gr,0.764695043,5.209486153,M. aeruginosa (toxic) 8 LOW 8 B
+M. aeruginosa (toxic),8,8,LOW,3,C,39.09,22.09,Hot,B Limited,0.116139777,gr,0.310049986,5.17479288,M. aeruginosa (toxic) 8 LOW 8 C
+M. aeruginosa (toxic),8,8,NORM,3,D,39.09,22.09,Hot,A Replete,0.333078341,gr,0.944150735,4.628886713,M. aeruginosa (toxic) 8 NORM 8 D
+M. aeruginosa (toxic),8,8,NORM,3,E,39.09,22.09,Hot,A Replete,0.330136082,gr,0.917582641,4.611351045,M. aeruginosa (toxic) 8 NORM 8 E
+M. aeruginosa (toxic),8,8,NORM,3,F,39.09,22.09,Hot,A Replete,0.348881117,gr,0.896385486,4.647079589,M. aeruginosa (toxic) 8 NORM 8 F
+M. aeruginosa (toxic),9,3,LOW,3,A,22.09,22.09,,B Limited,0.157326688,gr,0.51515014,5.176545135,M. aeruginosa (toxic) 3 LOW 9 A
+M. aeruginosa (toxic),9,3,LOW,3,B,22.09,22.09,,B Limited,0.311010356,gr,0.774316322,5.153233789,M. aeruginosa (toxic) 3 LOW 9 B
+M. aeruginosa (toxic),9,3,LOW,3,C,22.09,22.09,,B Limited,0.319091665,gr,0.85240655,5.175754174,M. aeruginosa (toxic) 3 LOW 9 C
+M. aeruginosa (toxic),9,3,NORM,3,D,22.09,22.09,,A Replete,0.520683113,gr,0.984817622,5.213467289,M. aeruginosa (toxic) 3 NORM 9 D
+M. aeruginosa (toxic),9,3,NORM,3,E,22.09,22.09,,A Replete,0.476505683,gr,0.994015334,5.305690121,M. aeruginosa (toxic) 3 NORM 9 E
+M. aeruginosa (toxic),9,3,NORM,3,F,22.09,22.09,,A Replete,0.572191246,gr,0.998318101,5.136445287,M. aeruginosa (toxic) 3 NORM 9 F
+M. aeruginosa (toxic),10,1,LOW,4,A,15.66,25.43,Cold,B Limited,0.33805286,gr,0.85560596,5.159400067,M. aeruginosa (toxic) 1 LOW 10 A
+M. aeruginosa (toxic),10,1,LOW,4,B,15.66,25.43,Cold,B Limited,0.361877447,gr,0.916312017,5.118532589,M. aeruginosa (toxic) 1 LOW 10 B
+M. aeruginosa (toxic),10,1,LOW,4,C,15.66,25.43,Cold,B Limited,0.420086524,gr,0.897441198,5.148075703,M. aeruginosa (toxic) 1 LOW 10 C
+M. aeruginosa (toxic),10,1,NORM,4,D,15.66,25.43,Cold,A Replete,0.720892433,gr,0.998891764,4.982372984,M. aeruginosa (toxic) 1 NORM 10 D
+M. aeruginosa (toxic),10,1,NORM,4,E,15.66,25.43,Cold,A Replete,0.721274167,gr,0.999219422,4.989615927,M. aeruginosa (toxic) 1 NORM 10 E
+M. aeruginosa (toxic),10,1,NORM,4,F,15.66,25.43,Cold,A Replete,0.701204242,gr,0.999282554,5.019793232,M. aeruginosa (toxic) 1 NORM 10 F
+M. aeruginosa (toxic),11,8,LOW,4,A,39.09,25.43,Hot,B Limited,0.225658165,gr,0.815647509,5.265742521,M. aeruginosa (toxic) 8 LOW 11 A
+M. aeruginosa (toxic),11,8,LOW,4,B,39.09,25.43,Hot,B Limited,0.122186888,gr,0.64792913,5.208173817,M. aeruginosa (toxic) 8 LOW 11 B
+M. aeruginosa (toxic),11,8,LOW,4,C,39.09,25.43,Hot,B Limited,0.156319466,gr,0.618709456,5.190453721,M. aeruginosa (toxic) 8 LOW 11 C
+M. aeruginosa (toxic),11,8,NORM,4,D,39.09,25.43,Hot,A Replete,0.47117488,gr,0.964444604,4.609560534,M. aeruginosa (toxic) 8 NORM 11 D
+M. aeruginosa (toxic),11,8,NORM,4,E,39.09,25.43,Hot,A Replete,0.336023991,gr,0.991618607,4.620649757,M. aeruginosa (toxic) 8 NORM 11 E
+M. aeruginosa (toxic),11,8,NORM,4,F,39.09,25.43,Hot,A Replete,0.304352699,gr,0.887645182,4.711869805,M. aeruginosa (toxic) 8 NORM 11 F
+M. aeruginosa (toxic),12,4,LOW,4,A,25.43,25.43,,B Limited,0.289240323,gr,0.694507621,5.049535443,M. aeruginosa (toxic) 4 LOW 12 A
+M. aeruginosa (toxic),12,4,LOW,4,B,25.43,25.43,,B Limited,0.396893577,gr,0.845264985,5.075173815,M. aeruginosa (toxic) 4 LOW 12 B
+M. aeruginosa (toxic),12,4,LOW,4,C,25.43,25.43,,B Limited,0.264527957,gr,0.612146553,5.240635286,M. aeruginosa (toxic) 4 LOW 12 C
+M. aeruginosa (toxic),12,4,NORM,4,D,25.43,25.43,,A Replete,0.816944323,gr,0.991174962,5.270432163,M. aeruginosa (toxic) 4 NORM 12 D
+M. aeruginosa (toxic),12,4,NORM,4,E,25.43,25.43,,A Replete,0.742015313,gr,0.992063106,5.309553998,M. aeruginosa (toxic) 4 NORM 12 E
+M. aeruginosa (toxic),12,4,NORM,4,F,25.43,25.43,,A Replete,0.765083321,gr,0.995092774,5.260044204,M. aeruginosa (toxic) 4 NORM 12 F
+M. aeruginosa (toxic),13,1,LOW,5,A,15.66,28.63,Cold,B Limited,0.449095069,gr,0.928966332,5.125272647,M. aeruginosa (toxic) 1 LOW 13 A
+M. aeruginosa (toxic),13,1,LOW,5,B,15.66,28.63,Cold,B Limited,0.408754902,gr,0.866793333,5.12942523,M. aeruginosa (toxic) 1 LOW 13 B
+M. aeruginosa (toxic),13,1,LOW,5,C,15.66,28.63,Cold,B Limited,0.452577682,gr,0.941721143,5.125807517,M. aeruginosa (toxic) 1 LOW 13 C
+M. aeruginosa (toxic),13,1,NORM,5,D,15.66,28.63,Cold,A Replete,0.761241647,gr,0.998771571,4.972240906,M. aeruginosa (toxic) 1 NORM 13 D
+M. aeruginosa (toxic),13,1,NORM,5,E,15.66,28.63,Cold,A Replete,0.752352339,gr,0.997566781,4.981824212,M. aeruginosa (toxic) 1 NORM 13 E
+M. aeruginosa (toxic),13,1,NORM,5,F,15.66,28.63,Cold,A Replete,0.751525529,gr,0.999372461,5.026114865,M. aeruginosa (toxic) 1 NORM 13 F
+M. aeruginosa (toxic),14,8,LOW,5,A,39.09,28.63,Hot,B Limited,0.207141808,gr,0.855370047,5.200704538,M. aeruginosa (toxic) 8 LOW 14 A
+M. aeruginosa (toxic),14,8,LOW,5,B,39.09,28.63,Hot,B Limited,0.139006275,gr,0.924916276,5.210851341,M. aeruginosa (toxic) 8 LOW 14 B
+M. aeruginosa (toxic),14,8,LOW,5,C,39.09,28.63,Hot,B Limited,0.136268131,gr,0.665924853,5.15091884,M. aeruginosa (toxic) 8 LOW 14 C
+M. aeruginosa (toxic),14,8,NORM,5,D,39.09,28.63,Hot,A Replete,0.506613821,gr,0.980498277,4.635311343,M. aeruginosa (toxic) 8 NORM 14 D
+M. aeruginosa (toxic),14,8,NORM,5,E,39.09,28.63,Hot,A Replete,0.483516713,gr,0.998935446,4.622125627,M. aeruginosa (toxic) 8 NORM 14 E
+M. aeruginosa (toxic),14,8,NORM,5,F,39.09,28.63,Hot,A Replete,0.393538025,gr,0.968080582,4.606069781,M. aeruginosa (toxic) 8 NORM 14 F
+M. aeruginosa (toxic),15,5,LOW,5,A,28.63,28.63,,B Limited,0.266061432,gr,0.737547481,5.161007416,M. aeruginosa (toxic) 5 LOW 15 A
+M. aeruginosa (toxic),15,5,LOW,5,B,28.63,28.63,,B Limited,0.286164052,gr,0.953208283,5.220626059,M. aeruginosa (toxic) 5 LOW 15 B
+M. aeruginosa (toxic),15,5,LOW,5,C,28.63,28.63,,B Limited,0.302369153,gr,0.850161798,5.323838904,M. aeruginosa (toxic) 5 LOW 15 C
+M. aeruginosa (toxic),15,5,NORM,5,D,28.63,28.63,,A Replete,0.728886835,gr,0.987471434,5.287003607,M. aeruginosa (toxic) 5 NORM 15 D
+M. aeruginosa (toxic),15,5,NORM,5,E,28.63,28.63,,A Replete,0.7076689,gr,0.951984826,5.302956589,M. aeruginosa (toxic) 5 NORM 15 E
+M. aeruginosa (toxic),15,5,NORM,5,F,28.63,28.63,,A Replete,0.685317094,gr,0.99489683,5.321692038,M. aeruginosa (toxic) 5 NORM 15 F
+M. aeruginosa (toxic),16,1,LOW,6,A,15.66,32.02,Cold,B Limited,0.475423594,gr,0.944685046,5.150107339,M. aeruginosa (toxic) 1 LOW 16 A
+M. aeruginosa (toxic),16,1,LOW,6,B,15.66,32.02,Cold,B Limited,0.486001209,gr,0.885204055,5.155197292,M. aeruginosa (toxic) 1 LOW 16 B
+M. aeruginosa (toxic),16,1,LOW,6,C,15.66,32.02,Cold,B Limited,0.458157424,gr,0.899203057,5.138265978,M. aeruginosa (toxic) 1 LOW 16 C
+M. aeruginosa (toxic),16,1,NORM,6,D,15.66,32.02,Cold,A Replete,0.606329255,gr,0.991507364,4.976043849,M. aeruginosa (toxic) 1 NORM 16 D
+M. aeruginosa (toxic),16,1,NORM,6,E,15.66,32.02,Cold,A Replete,0.591663269,gr,0.998184651,4.964800758,M. aeruginosa (toxic) 1 NORM 16 E
+M. aeruginosa (toxic),16,1,NORM,6,F,15.66,32.02,Cold,A Replete,0.562642218,gr,0.999778128,4.980725764,M. aeruginosa (toxic) 1 NORM 16 F
+M. aeruginosa (toxic),17,8,LOW,6,A,39.09,32.02,Hot,B Limited,0.152435528,gr,0.7090424,5.178350699,M. aeruginosa (toxic) 8 LOW 17 A
+M. aeruginosa (toxic),17,8,LOW,6,B,39.09,32.02,Hot,B Limited,0.157682521,gr,0.857608835,5.233138641,M. aeruginosa (toxic) 8 LOW 17 B
+M. aeruginosa (toxic),17,8,LOW,6,C,39.09,32.02,Hot,B Limited,0.132834088,gr,0.764875843,5.160892691,M. aeruginosa (toxic) 8 LOW 17 C
+M. aeruginosa (toxic),17,8,NORM,6,D,39.09,32.02,Hot,A Replete,0.351726327,gr,0.965714751,4.650908078,M. aeruginosa (toxic) 8 NORM 17 D
+M. aeruginosa (toxic),17,8,NORM,6,E,39.09,32.02,Hot,A Replete,0.350949706,gr,0.98783117,4.650334738,M. aeruginosa (toxic) 8 NORM 17 E
+M. aeruginosa (toxic),17,8,NORM,6,F,39.09,32.02,Hot,A Replete,0.38057898,gr,0.987039901,4.669646205,M. aeruginosa (toxic) 8 NORM 17 F
+M. aeruginosa (toxic),18,6,LOW,6,A,32.02,32.02,,B Limited,0.260453407,gr,0.902797856,5.02604922,M. aeruginosa (toxic) 6 LOW 18 A
+M. aeruginosa (toxic),18,6,LOW,6,B,32.02,32.02,,B Limited,0.266798573,gr,0.802938798,5.15225059,M. aeruginosa (toxic) 6 LOW 18 B
+M. aeruginosa (toxic),18,6,LOW,6,C,32.02,32.02,,B Limited,0.252394018,gr,0.751082043,5.335420454,M. aeruginosa (toxic) 6 LOW 18 C
+M. aeruginosa (toxic),18,6,NORM,6,D,32.02,32.02,,A Replete,0.704428285,gr,0.999489184,5.243966772,M. aeruginosa (toxic) 6 NORM 18 D
+M. aeruginosa (toxic),18,6,NORM,6,E,32.02,32.02,,A Replete,0.712240659,gr,0.999222985,5.249914627,M. aeruginosa (toxic) 6 NORM 18 E
+M. aeruginosa (toxic),18,6,NORM,6,F,32.02,32.02,,A Replete,0.708807346,gr,0.995661366,5.269557745,M. aeruginosa (toxic) 6 NORM 18 F
+M. aeruginosa (toxic),19,1,LOW,7,A,15.66,35.73,Cold,B Limited,0.340332395,gr,0.819813538,5.113252049,M. aeruginosa (toxic) 1 LOW 19 A
+M. aeruginosa (toxic),19,1,LOW,7,B,15.66,35.73,Cold,B Limited,0.415538023,gr,0.844379901,5.137913845,M. aeruginosa (toxic) 1 LOW 19 B
+M. aeruginosa (toxic),19,1,LOW,7,C,15.66,35.73,Cold,B Limited,0.400985624,gr,0.855546563,5.207297968,M. aeruginosa (toxic) 1 LOW 19 C
+M. aeruginosa (toxic),19,1,NORM,7,D,15.66,35.73,Cold,A Replete,0.503249674,gr,0.995618654,4.971131874,M. aeruginosa (toxic) 1 NORM 19 D
+M. aeruginosa (toxic),19,1,NORM,7,E,15.66,35.73,Cold,A Replete,0.438752291,gr,0.999963699,5.204885422,M. aeruginosa (toxic) 1 NORM 19 E
+M. aeruginosa (toxic),19,1,NORM,7,F,15.66,35.73,Cold,A Replete,0.483277248,gr,0.993580455,5.024538199,M. aeruginosa (toxic) 1 NORM 19 F
+M. aeruginosa (toxic),20,8,LOW,7,A,39.09,35.73,Hot,B Limited,-0.031382022,gr,0.091607478,5.12646086,M. aeruginosa (toxic) 8 LOW 20 A
+M. aeruginosa (toxic),20,8,LOW,7,B,39.09,35.73,Hot,B Limited,0.083273675,gr,0.543234248,5.176375696,M. aeruginosa (toxic) 8 LOW 20 B
+M. aeruginosa (toxic),20,8,LOW,7,C,39.09,35.73,Hot,B Limited,0.077792952,gr,0.362840529,5.209704708,M. aeruginosa (toxic) 8 LOW 20 C
+M. aeruginosa (toxic),20,8,NORM,7,D,39.09,35.73,Hot,A Replete,0.508891209,gr,0.981793721,4.665700686,M. aeruginosa (toxic) 8 NORM 20 D
+M. aeruginosa (toxic),20,8,NORM,7,E,39.09,35.73,Hot,A Replete,0.548556591,gr,0.981723179,4.664004972,M. aeruginosa (toxic) 8 NORM 20 E
+M. aeruginosa (toxic),20,8,NORM,7,F,39.09,35.73,Hot,A Replete,0.456109311,gr,0.979219203,4.644967656,M. aeruginosa (toxic) 8 NORM 20 F
+M. aeruginosa (toxic),21,7,LOW,7,A,35.73,35.73,,B Limited,0.126650463,gr,0.279143377,5.311677718,M. aeruginosa (toxic) 7 LOW 21 A
+M. aeruginosa (toxic),21,7,LOW,7,B,35.73,35.73,,B Limited,0.12328153,gr,0.394247807,5.305243327,M. aeruginosa (toxic) 7 LOW 21 B
+M. aeruginosa (toxic),21,7,LOW,7,C,35.73,35.73,,B Limited,0.165385293,gr,0.640848398,5.408247426,M. aeruginosa (toxic) 7 LOW 21 C
+M. aeruginosa (toxic),21,7,NORM,7,D,35.73,35.73,,A Replete,0.748752494,gr,0.988941083,5.347869145,M. aeruginosa (toxic) 7 NORM 21 D
+M. aeruginosa (toxic),21,7,NORM,7,E,35.73,35.73,,A Replete,0.706764184,gr,0.995484179,5.252953825,M. aeruginosa (toxic) 7 NORM 21 E
+M. aeruginosa (toxic),21,7,NORM,7,F,35.73,35.73,,A Replete,0.672169141,gr,0.99743164,5.252116348,M. aeruginosa (toxic) 7 NORM 21 F
+M. aeruginosa (toxic),22,1,LOW,8,A,15.66,39.09,Cold,B Limited,0.410964064,gr,0.862131793,5.161924742,M. aeruginosa (toxic) 1 LOW 22 A
+M. aeruginosa (toxic),22,1,LOW,8,B,15.66,39.09,Cold,B Limited,0.357510259,gr,0.943198825,5.125510402,M. aeruginosa (toxic) 1 LOW 22 B
+M. aeruginosa (toxic),22,1,LOW,8,C,15.66,39.09,Cold,B Limited,0.40106601,gr,0.943125608,5.152192725,M. aeruginosa (toxic) 1 LOW 22 C
+M. aeruginosa (toxic),22,1,NORM,8,D,15.66,39.09,Cold,A Replete,-0.101782242,gr,0.407447394,4.773139237,M. aeruginosa (toxic) 1 NORM 22 D
+M. aeruginosa (toxic),22,1,NORM,8,E,15.66,39.09,Cold,A Replete,-0.064742796,gr,0.155892297,4.862212622,M. aeruginosa (toxic) 1 NORM 22 E
+M. aeruginosa (toxic),22,1,NORM,8,F,15.66,39.09,Cold,A Replete,-0.082255704,gr,0.361135181,4.792147554,M. aeruginosa (toxic) 1 NORM 22 F
+M. aeruginosa (toxic),23,8,LOW,8,A,39.09,39.09,Hot,B Limited,-0.172464177,gr,0.75235698,4.887864842,M. aeruginosa (toxic) 8 LOW 23 A
+M. aeruginosa (toxic),23,8,LOW,8,B,39.09,39.09,Hot,B Limited,-0.130580749,gr,0.765023788,4.945207489,M. aeruginosa (toxic) 8 LOW 23 B
+M. aeruginosa (toxic),23,8,LOW,8,C,39.09,39.09,Hot,B Limited,-0.032237975,gr,0.096378022,5.158882871,M. aeruginosa (toxic) 8 LOW 23 C
+M. aeruginosa (toxic),23,8,NORM,8,D,39.09,39.09,Hot,A Replete,-0.180719517,gr,0.600704993,4.307437778,M. aeruginosa (toxic) 8 NORM 23 D
+M. aeruginosa (toxic),23,8,NORM,8,E,39.09,39.09,Hot,A Replete,-0.225863449,gr,0.84471829,4.237434295,M. aeruginosa (toxic) 8 NORM 23 E
+M. aeruginosa (toxic),23,8,NORM,8,F,39.09,39.09,Hot,A Replete,-0.178870963,gr,0.740512429,4.379147494,M. aeruginosa (toxic) 8 NORM 23 F
+M. aeruginosa (toxic),24,8,LOW,8,A,39.09,39.09,Hot,B Limited,-0.040326513,gr,0.174575111,5.140434732,M. aeruginosa (toxic) 8 LOW 24 A
+M. aeruginosa (toxic),24,8,LOW,8,B,39.09,39.09,Hot,B Limited,-0.008066594,gr,0.004838293,5.188167623,M. aeruginosa (toxic) 8 LOW 24 B
+M. aeruginosa (toxic),24,8,LOW,8,C,39.09,39.09,Hot,B Limited,0.10841914,gr,0.370421782,5.187162317,M. aeruginosa (toxic) 8 LOW 24 C
+M. aeruginosa (toxic),24,8,NORM,8,D,39.09,39.09,Hot,A Replete,-0.14729183,gr,0.813856581,4.356965204,M. aeruginosa (toxic) 8 NORM 24 D
+M. aeruginosa (toxic),24,8,NORM,8,E,39.09,39.09,Hot,A Replete,-0.200416771,gr,0.852598716,4.324927043,M. aeruginosa (toxic) 8 NORM 24 E
+M. aeruginosa (toxic),24,8,NORM,8,F,39.09,39.09,Hot,A Replete,-0.209419,gr,0.904799339,4.362334001,M. aeruginosa (toxic) 8 NORM 24 F
+M. aeruginosa (toxic),25,1,LOW,9,A,15.66,42.62,Cold,B Limited,-0.155169008,gr,0.695845301,4.847645666,M. aeruginosa (toxic) 1 LOW 25 A
+M. aeruginosa (toxic),25,1,LOW,9,B,15.66,42.62,Cold,B Limited,-0.170662025,gr,0.477574329,4.790487252,M. aeruginosa (toxic) 1 LOW 25 B
+M. aeruginosa (toxic),25,1,LOW,9,C,15.66,42.62,Cold,B Limited,-0.081242742,gr,0.314847998,4.989615927,M. aeruginosa (toxic) 1 LOW 25 C
+M. aeruginosa (toxic),25,1,NORM,9,D,15.66,42.62,Cold,A Replete,-0.706730255,gr,0.970495249,3.656356262,M. aeruginosa (toxic) 1 NORM 25 D
+M. aeruginosa (toxic),25,1,NORM,9,E,15.66,42.62,Cold,A Replete,-0.641765002,gr,0.893822401,3.739810183,M. aeruginosa (toxic) 1 NORM 25 E
+M. aeruginosa (toxic),25,1,NORM,9,F,15.66,42.62,Cold,A Replete,-0.640749532,gr,0.914208209,3.763522997,M. aeruginosa (toxic) 1 NORM 25 F
+M. aeruginosa (toxic),26,8,LOW,9,A,39.09,42.62,Hot,B Limited,-0.801125695,gr,0.97757221,3.801538272,M. aeruginosa (toxic) 8 LOW 26 A
+M. aeruginosa (toxic),26,8,LOW,9,B,39.09,42.62,Hot,B Limited,-0.87263623,gr,0.98637097,3.628598523,M. aeruginosa (toxic) 8 LOW 26 B
+M. aeruginosa (toxic),26,8,LOW,9,C,39.09,42.62,Hot,B Limited,-0.786937611,gr,0.997119325,3.754667195,M. aeruginosa (toxic) 8 LOW 26 C
+M. aeruginosa (toxic),26,8,NORM,9,D,39.09,42.62,Hot,A Replete,-0.47782656,gr,0.997511457,3.695855068,M. aeruginosa (toxic) 8 NORM 26 D
+M. aeruginosa (toxic),26,8,NORM,9,E,39.09,42.62,Hot,A Replete,-0.500884226,gr,0.999320275,3.624607564,M. aeruginosa (toxic) 8 NORM 26 E
+M. aeruginosa (toxic),26,8,NORM,9,F,39.09,42.62,Hot,A Replete,-0.454773598,gr,0.994946043,3.717223927,M. aeruginosa (toxic) 8 NORM 26 F
+M. aeruginosa (toxic),27,9,LOW,9,A,42.62,42.62,,B Limited,-0.04125558,gr,0.942730872,2.991222118,M. aeruginosa (toxic) 9 LOW 27 A
+M. aeruginosa (toxic),27,9,LOW,9,B,42.62,42.62,,B Limited,0.056103699,gr,0.177651389,2.925846146,M. aeruginosa (toxic) 9 LOW 27 B
+M. aeruginosa (toxic),27,9,LOW,9,C,42.62,42.62,,B Limited,-0.015328957,gr,0.520642561,3.049746862,M. aeruginosa (toxic) 9 LOW 27 C
+M. aeruginosa (toxic),27,9,NORM,9,D,42.62,42.62,,A Replete,0.076207405,gr,0.380237883,3.352707173,M. aeruginosa (toxic) 9 NORM 27 D
+M. aeruginosa (toxic),27,9,NORM,9,E,42.62,42.62,,A Replete,0.006380288,gr,0.041276475,3.132009892,M. aeruginosa (toxic) 9 NORM 27 E
+M. aeruginosa (toxic),27,9,NORM,9,F,42.62,42.62,,A Replete,0.165888668,gr,0.884725853,2.897016301,M. aeruginosa (toxic) 9 NORM 27 F
+P. foveolarum,1,1,LOW,1,A,15.66,15.66,Cold,B Limited,0.126067002,gr,0.324005114,3.923556241,P. foveolarum 1 LOW 1 A
+P. foveolarum,1,1,LOW,1,B,15.66,15.66,Cold,B Limited,-0.034988182,gr,0.919710454,3.908014984,P. foveolarum 1 LOW 1 B
+P. foveolarum,1,1,LOW,1,C,15.66,15.66,Cold,B Limited,-0.044768909,gr,0.679777241,3.913022506,P. foveolarum 1 LOW 1 C
+P. foveolarum,1,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.312498802,gr,0.928597816,4.985727658,P. foveolarum 1 NORM 1 D
+P. foveolarum,1,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.175697463,gr,0.85765991,5.165300127,P. foveolarum 1 NORM 1 E
+P. foveolarum,1,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.191768806,gr,0.965469632,4.980313534,P. foveolarum 1 NORM 1 F
+P. foveolarum,2,9,LOW,1,A,42.62,15.66,Hot,B Limited,-0.170156975,gr,0.696480393,5.074173315,P. foveolarum 9 LOW 2 A
+P. foveolarum,2,9,LOW,1,B,42.62,15.66,Hot,B Limited,-0.107410279,gr,0.628148681,4.876112934,P. foveolarum 9 LOW 2 B
+P. foveolarum,2,9,LOW,1,C,42.62,15.66,Hot,B Limited,-0.122484639,gr,0.940775278,4.792230497,P. foveolarum 9 LOW 2 C
+P. foveolarum,2,9,NORM,1,D,42.62,15.66,Hot,A Replete,-0.001490708,gr,0.014107108,5.275662676,P. foveolarum 9 NORM 2 D
+P. foveolarum,2,9,NORM,1,E,42.62,15.66,Hot,A Replete,-0.05985842,gr,0.518929249,5.18296263,P. foveolarum 9 NORM 2 E
+P. foveolarum,2,9,NORM,1,F,42.62,15.66,Hot,A Replete,-0.024013324,gr,0.255360892,5.279644101,P. foveolarum 9 NORM 2 F
+P. foveolarum,3,1,NORM,1,D,15.66,15.66,Cold,A Replete,0.054791088,gr,0.281544453,5.036497954,P. foveolarum 1 NORM 3 D
+P. foveolarum,3,1,NORM,1,E,15.66,15.66,Cold,A Replete,0.009819758,gr,0.055921154,5.163356381,P. foveolarum 1 NORM 3 E
+P. foveolarum,3,1,NORM,1,F,15.66,15.66,Cold,A Replete,0.103457958,gr,0.444295285,5.028278729,P. foveolarum 1 NORM 3 F
+P. foveolarum,4,1,LOW,2,A,15.66,18.48,Cold,B Limited,-0.049308543,gr,0.524940935,3.921180943,P. foveolarum 1 LOW 4 A
+P. foveolarum,4,1,LOW,2,B,15.66,18.48,Cold,B Limited,-0.057962322,gr,0.774389104,3.9213791,P. foveolarum 1 LOW 4 B
+P. foveolarum,4,1,LOW,2,C,15.66,18.48,Cold,B Limited,-0.110739502,gr,0.716140187,3.945844554,P. foveolarum 1 LOW 4 C
+P. foveolarum,4,1,NORM,2,D,15.66,18.48,Cold,A Replete,0.335274405,gr,0.957714529,5.108548145,P. foveolarum 1 NORM 4 D
+P. foveolarum,4,1,NORM,2,E,15.66,18.48,Cold,A Replete,0.352012562,gr,0.952146121,5.049343055,P. foveolarum 1 NORM 4 E
+P. foveolarum,4,1,NORM,2,F,15.66,18.48,Cold,A Replete,0.240270597,gr,0.883494451,5.215098788,P. foveolarum 1 NORM 4 F
+P. foveolarum,5,9,LOW,2,A,42.62,18.48,Hot,B Limited,-0.06734171,gr,0.638177213,4.837233835,P. foveolarum 9 LOW 5 A
+P. foveolarum,5,9,LOW,2,B,42.62,18.48,Hot,B Limited,-0.101405438,gr,0.92080791,4.870376562,P. foveolarum 9 LOW 5 B
+P. foveolarum,5,9,LOW,2,C,42.62,18.48,Hot,B Limited,-0.063373488,gr,0.319423014,4.964940335,P. foveolarum 9 LOW 5 C
+P. foveolarum,5,9,NORM,2,D,42.62,18.48,Hot,A Replete,-0.042726204,gr,0.343134586,5.223755445,P. foveolarum 9 NORM 5 D
+P. foveolarum,5,9,NORM,2,E,42.62,18.48,Hot,A Replete,-0.029246409,gr,0.898967747,5.268682561,P. foveolarum 9 NORM 5 E
+P. foveolarum,5,9,NORM,2,F,42.62,18.48,Hot,A Replete,0.029764934,gr,0.138740336,5.300963861,P. foveolarum 9 NORM 5 F
+P. foveolarum,6,2,LOW,2,A,18.48,18.48,,B Limited,-0.054910271,gr,0.581312903,4.111201679,P. foveolarum 2 LOW 6 A
+P. foveolarum,6,2,LOW,2,B,18.48,18.48,,B Limited,-0.00931471,gr,0.040583426,4.092676505,P. foveolarum 2 LOW 6 B
+P. foveolarum,6,2,LOW,2,C,18.48,18.48,,B Limited,-0.023128237,gr,0.186083207,4.161847435,P. foveolarum 2 LOW 6 C
+P. foveolarum,6,2,NORM,2,D,18.48,18.48,,A Replete,0.141352736,gr,0.576566672,5.179252259,P. foveolarum 2 NORM 6 D
+P. foveolarum,6,2,NORM,2,E,18.48,18.48,,A Replete,0.280356826,gr,0.874743117,5.077234191,P. foveolarum 2 NORM 6 E
+P. foveolarum,6,2,NORM,2,F,18.48,18.48,,A Replete,0.254448353,gr,0.931914146,5.064302435,P. foveolarum 2 NORM 6 F
+P. foveolarum,7,1,LOW,3,A,15.66,22.09,Cold,B Limited,-0.025390853,gr,0.752986845,3.89914038,P. foveolarum 1 LOW 7 A
+P. foveolarum,7,1,LOW,3,B,15.66,22.09,Cold,B Limited,-0.029207909,gr,0.589111776,3.94661765,P. foveolarum 1 LOW 7 B
+P. foveolarum,7,1,LOW,3,C,15.66,22.09,Cold,B Limited,-0.008755014,gr,0.032705055,3.942746178,P. foveolarum 1 LOW 7 C
+P. foveolarum,7,1,NORM,3,D,15.66,22.09,Cold,A Replete,0.36851165,gr,0.986789604,5.101146097,P. foveolarum 1 NORM 7 D
+P. foveolarum,7,1,NORM,3,E,15.66,22.09,Cold,A Replete,0.383162836,gr,0.993156005,5.076922286,P. foveolarum 1 NORM 7 E
+P. foveolarum,7,1,NORM,3,F,15.66,22.09,Cold,A Replete,0.301057585,gr,0.959454952,5.159629847,P. foveolarum 1 NORM 7 F
+P. foveolarum,8,9,LOW,3,A,42.62,22.09,Hot,B Limited,-0.11512941,gr,0.682116047,5.035783088,P. foveolarum 9 LOW 8 A
+P. foveolarum,8,9,LOW,3,B,42.62,22.09,Hot,B Limited,0.024670216,gr,0.257678996,5.014959266,P. foveolarum 9 LOW 8 B
+P. foveolarum,8,9,LOW,3,C,42.62,22.09,Hot,B Limited,-0.017667184,gr,0.035859431,5.116435713,P. foveolarum 9 LOW 8 C
+P. foveolarum,8,9,NORM,3,D,42.62,22.09,Hot,A Replete,0.039712582,gr,0.138442229,5.315666005,P. foveolarum 9 NORM 8 D
+P. foveolarum,8,9,NORM,3,E,42.62,22.09,Hot,A Replete,0.053158776,gr,0.695783918,5.302757495,P. foveolarum 9 NORM 8 E
+P. foveolarum,8,9,NORM,3,F,42.62,22.09,Hot,A Replete,0.014472755,gr,0.186304546,5.314928632,P. foveolarum 9 NORM 8 F
+P. foveolarum,9,3,LOW,3,A,22.09,22.09,,B Limited,0.246343808,gr,0.988232321,4.917056947,P. foveolarum 3 LOW 9 A
+P. foveolarum,9,3,LOW,3,B,22.09,22.09,,B Limited,0.317849271,gr,0.872001942,4.85585108,P. foveolarum 3 LOW 9 B
+P. foveolarum,9,3,LOW,3,C,22.09,22.09,,B Limited,0.11940075,gr,0.832768404,4.906015245,P. foveolarum 3 LOW 9 C
+P. foveolarum,9,3,NORM,3,D,22.09,22.09,,A Replete,0.210350163,gr,0.923998329,5.417654749,P. foveolarum 3 NORM 9 D
+P. foveolarum,9,3,NORM,3,E,22.09,22.09,,A Replete,0.286462528,gr,0.856865879,5.269197468,P. foveolarum 3 NORM 9 E
+P. foveolarum,9,3,NORM,3,F,22.09,22.09,,A Replete,0.29183277,gr,0.997222549,5.165928179,P. foveolarum 3 NORM 9 F
+P. foveolarum,10,1,LOW,4,A,15.66,25.43,Cold,B Limited,0.037017687,gr,0.737901456,4.07022262,P. foveolarum 1 LOW 10 A
+P. foveolarum,10,1,LOW,4,B,15.66,25.43,Cold,B Limited,-0.019866259,gr,0.065940828,3.851423383,P. foveolarum 1 LOW 10 B
+P. foveolarum,10,1,LOW,4,C,15.66,25.43,Cold,B Limited,-0.042587529,gr,0.484962205,3.915616541,P. foveolarum 1 LOW 10 C
+P. foveolarum,10,1,NORM,4,D,15.66,25.43,Cold,A Replete,0.467800873,gr,0.996423368,5.060440816,P. foveolarum 1 NORM 10 D
+P. foveolarum,10,1,NORM,4,E,15.66,25.43,Cold,A Replete,0.304787011,gr,0.978865513,5.152424166,P. foveolarum 1 NORM 10 E
+P. foveolarum,10,1,NORM,4,F,15.66,25.43,Cold,A Replete,0.413922565,gr,0.90745519,5.035913101,P. foveolarum 1 NORM 10 F
+P. foveolarum,11,9,LOW,4,A,42.62,25.43,Hot,B Limited,-0.04277878,gr,0.99596967,5.275202259,P. foveolarum 9 LOW 11 A
+P. foveolarum,11,9,LOW,4,B,42.62,25.43,Hot,B Limited,-0.084534742,gr,0.601260073,5.08685532,P. foveolarum 9 LOW 11 B
+P. foveolarum,11,9,LOW,4,C,42.62,25.43,Hot,B Limited,-0.009551962,gr,0.053035718,5.056564226,P. foveolarum 9 LOW 11 C
+P. foveolarum,11,9,NORM,4,D,42.62,25.43,Hot,A Replete,0.007132134,gr,0.010282993,5.291896799,P. foveolarum 9 NORM 11 D
+P. foveolarum,11,9,NORM,4,E,42.62,25.43,Hot,A Replete,0.058168134,gr,0.447364792,5.309850602,P. foveolarum 9 NORM 11 E
+P. foveolarum,11,9,NORM,4,F,42.62,25.43,Hot,A Replete,0.019019542,gr,0.013406647,5.24528572,P. foveolarum 9 NORM 11 F
+P. foveolarum,12,4,LOW,4,A,25.43,25.43,,B Limited,0.222827581,gr,0.914653198,4.582720057,P. foveolarum 4 LOW 12 A
+P. foveolarum,12,4,LOW,4,B,25.43,25.43,,B Limited,0.210907002,gr,0.810545284,4.604269781,P. foveolarum 4 LOW 12 B
+P. foveolarum,12,4,LOW,4,C,25.43,25.43,,B Limited,0.182070261,gr,0.791187511,4.613931692,P. foveolarum 4 LOW 12 C
+P. foveolarum,12,4,NORM,4,D,25.43,25.43,,A Replete,0.143877248,gr,0.820805624,5.209977835,P. foveolarum 4 NORM 12 D
+P. foveolarum,12,4,NORM,4,E,25.43,25.43,,A Replete,0.149831921,gr,0.899290057,5.25624459,P. foveolarum 4 NORM 12 E
+P. foveolarum,12,4,NORM,4,F,25.43,25.43,,A Replete,0.162141294,gr,0.791507714,5.237930217,P. foveolarum 4 NORM 12 F
+P. foveolarum,13,1,LOW,5,A,15.66,28.63,Cold,B Limited,0.01494195,gr,0.014656527,3.855240991,P. foveolarum 1 LOW 13 A
+P. foveolarum,13,1,LOW,5,B,15.66,28.63,Cold,B Limited,-0.017153429,gr,0.636270909,3.949896658,P. foveolarum 1 LOW 13 B
+P. foveolarum,13,1,LOW,5,C,15.66,28.63,Cold,B Limited,0.015048021,gr,0.371651786,4.034594558,P. foveolarum 1 LOW 13 C
+P. foveolarum,13,1,NORM,5,D,15.66,28.63,Cold,A Replete,0.330006702,gr,0.99759566,5.204830523,P. foveolarum 1 NORM 13 D
+P. foveolarum,13,1,NORM,5,E,15.66,28.63,Cold,A Replete,0.343499665,gr,0.972538537,5.125034834,P. foveolarum 1 NORM 13 E
+P. foveolarum,13,1,NORM,5,F,15.66,28.63,Cold,A Replete,0.36195521,gr,0.948248089,5.082955956,P. foveolarum 1 NORM 13 F
+P. foveolarum,14,9,LOW,5,A,42.62,28.63,Hot,B Limited,-0.000442688,gr,3.77E-05,5.157329673,P. foveolarum 9 LOW 14 A
+P. foveolarum,14,9,LOW,5,B,42.62,28.63,Hot,B Limited,-0.016138111,gr,0.010235895,5.109635627,P. foveolarum 9 LOW 14 B
+P. foveolarum,14,9,LOW,5,C,42.62,28.63,Hot,B Limited,-0.008823503,gr,0.001668768,5.06177191,P. foveolarum 9 LOW 14 C
+P. foveolarum,14,9,NORM,5,D,42.62,28.63,Hot,A Replete,-0.027116928,gr,0.036990246,5.261497768,P. foveolarum 9 NORM 14 D
+P. foveolarum,14,9,NORM,5,E,42.62,28.63,Hot,A Replete,0.059498314,gr,0.582304857,5.287963954,P. foveolarum 9 NORM 14 E
+P. foveolarum,14,9,NORM,5,F,42.62,28.63,Hot,A Replete,0.026019961,gr,0.084676876,5.363543151,P. foveolarum 9 NORM 14 F
+P. foveolarum,15,5,LOW,5,A,28.63,28.63,,B Limited,0.111092949,gr,0.810112443,4.446760449,P. foveolarum 5 LOW 15 A
+P. foveolarum,15,5,LOW,5,B,28.63,28.63,,B Limited,0.102116293,gr,0.665203312,4.446643278,P. foveolarum 5 LOW 15 B
+P. foveolarum,15,5,LOW,5,C,28.63,28.63,,B Limited,0.097400755,gr,0.888305881,4.476768471,P. foveolarum 5 LOW 15 C
+P. foveolarum,15,5,NORM,5,D,28.63,28.63,,A Replete,0.173470181,gr,0.846871699,5.323497665,P. foveolarum 5 NORM 15 D
+P. foveolarum,15,5,NORM,5,E,28.63,28.63,,A Replete,0.089570498,gr,0.78027744,5.493966384,P. foveolarum 5 NORM 15 E
+P. foveolarum,15,5,NORM,5,F,28.63,28.63,,A Replete,0.21407472,gr,0.874325151,5.262016387,P. foveolarum 5 NORM 15 F
+P. foveolarum,16,1,LOW,6,A,15.66,32.02,Cold,B Limited,-0.003222859,gr,0.089091672,3.980802521,P. foveolarum 1 LOW 16 A
+P. foveolarum,16,1,LOW,6,B,15.66,32.02,Cold,B Limited,0.016434952,gr,0.236232068,3.974434266,P. foveolarum 1 LOW 16 B
+P. foveolarum,16,1,LOW,6,C,15.66,32.02,Cold,B Limited,-0.049437088,gr,0.770586767,3.984343667,P. foveolarum 1 LOW 16 C
+P. foveolarum,16,1,NORM,6,D,15.66,32.02,Cold,A Replete,0.248088714,gr,0.918578278,5.153060354,P. foveolarum 1 NORM 16 D
+P. foveolarum,16,1,NORM,6,E,15.66,32.02,Cold,A Replete,0.282291357,gr,0.939130343,5.112830806,P. foveolarum 1 NORM 16 E
+P. foveolarum,16,1,NORM,6,F,15.66,32.02,Cold,A Replete,0.319865171,gr,0.96462665,5.05158528,P. foveolarum 1 NORM 16 F
+P. foveolarum,17,9,LOW,6,A,42.62,32.02,Hot,B Limited,0.003770809,gr,0.003192742,5.086917092,P. foveolarum 9 LOW 17 A
+P. foveolarum,17,9,LOW,6,B,42.62,32.02,Hot,B Limited,0.055492441,gr,0.139632921,4.986547499,P. foveolarum 9 LOW 17 B
+P. foveolarum,17,9,LOW,6,C,42.62,32.02,Hot,B Limited,0.068520573,gr,0.310278781,5.093443405,P. foveolarum 9 LOW 17 C
+P. foveolarum,17,9,NORM,6,D,42.62,32.02,Hot,A Replete,0.058743802,gr,0.188308281,5.337345754,P. foveolarum 9 NORM 17 D
+P. foveolarum,17,9,NORM,6,E,42.62,32.02,Hot,A Replete,0.066051113,gr,0.224526569,5.299117047,P. foveolarum 9 NORM 17 E
+P. foveolarum,17,9,NORM,6,F,42.62,32.02,Hot,A Replete,0.140394212,gr,0.760077422,5.344007492,P. foveolarum 9 NORM 17 F
+P. foveolarum,18,6,LOW,6,A,32.02,32.02,,B Limited,0.314562778,gr,0.929874724,5.124321059,P. foveolarum 6 LOW 18 A
+P. foveolarum,18,6,LOW,6,B,32.02,32.02,,B Limited,0.302241935,gr,0.836395965,5.153118169,P. foveolarum 6 LOW 18 B
+P. foveolarum,18,6,LOW,6,C,32.02,32.02,,B Limited,0.251467118,gr,0.773873708,5.166099397,P. foveolarum 6 LOW 18 C
+P. foveolarum,18,6,NORM,6,D,32.02,32.02,,A Replete,0.343659533,gr,0.951688236,5.251382979,P. foveolarum 6 NORM 18 D
+P. foveolarum,18,6,NORM,6,E,32.02,32.02,,A Replete,0.348383085,gr,0.976982607,5.263622397,P. foveolarum 6 NORM 18 E
+P. foveolarum,18,6,NORM,6,F,32.02,32.02,,A Replete,0.285082247,gr,0.952162549,5.290133974,P. foveolarum 6 NORM 18 F
+P. foveolarum,19,1,LOW,7,A,15.66,35.73,Cold,B Limited,-0.007384962,gr,0.237224498,4.06988109,P. foveolarum 1 LOW 19 A
+P. foveolarum,19,1,LOW,7,B,15.66,35.73,Cold,B Limited,-0.102105474,gr,0.481303845,3.966132331,P. foveolarum 1 LOW 19 B
+P. foveolarum,19,1,LOW,7,C,15.66,35.73,Cold,B Limited,0.007166976,gr,0.045419906,4.047951523,P. foveolarum 1 LOW 19 C
+P. foveolarum,19,1,NORM,7,D,15.66,35.73,Cold,A Replete,0.321252795,gr,0.987822148,5.130431118,P. foveolarum 1 NORM 19 D
+P. foveolarum,19,1,NORM,7,E,15.66,35.73,Cold,A Replete,0.366041684,gr,0.969105643,5.147552615,P. foveolarum 1 NORM 19 E
+P. foveolarum,19,1,NORM,7,F,15.66,35.73,Cold,A Replete,0.306377619,gr,0.966391546,5.151555985,P. foveolarum 1 NORM 19 F
+P. foveolarum,20,9,LOW,7,A,42.62,35.73,Hot,B Limited,-0.026522468,gr,0.142898495,4.992471323,P. foveolarum 9 LOW 20 A
+P. foveolarum,20,9,LOW,7,B,42.62,35.73,Hot,B Limited,-0.010271022,gr,0.006085274,4.975974834,P. foveolarum 9 LOW 20 B
+P. foveolarum,20,9,LOW,7,C,42.62,35.73,Hot,B Limited,0.026760411,gr,0.073946547,5.065628402,P. foveolarum 9 LOW 20 C
+P. foveolarum,20,9,NORM,7,D,42.62,35.73,Hot,A Replete,0.013787501,gr,0.01565915,5.315469425,P. foveolarum 9 NORM 20 D
+P. foveolarum,20,9,NORM,7,E,42.62,35.73,Hot,A Replete,0.018653218,gr,0.404186504,5.32918599,P. foveolarum 9 NORM 20 E
+P. foveolarum,20,9,NORM,7,F,42.62,35.73,Hot,A Replete,0.024939618,gr,0.067444907,5.371893054,P. foveolarum 9 NORM 20 F
+P. foveolarum,21,7,LOW,7,A,35.73,35.73,,B Limited,0.167428501,gr,0.560074256,5.232551426,P. foveolarum 7 LOW 21 A
+P. foveolarum,21,7,LOW,7,B,35.73,35.73,,B Limited,0.120210352,gr,0.898818389,5.465652181,P. foveolarum 7 LOW 21 B
+P. foveolarum,21,7,LOW,7,C,35.73,35.73,,B Limited,0.194756507,gr,0.784344583,5.218516296,P. foveolarum 7 LOW 21 C
+P. foveolarum,21,7,NORM,7,D,35.73,35.73,,A Replete,0.201160745,gr,0.993244089,5.443196628,P. foveolarum 7 NORM 21 D
+P. foveolarum,21,7,NORM,7,E,35.73,35.73,,A Replete,0.237750043,gr,0.968984561,5.447943541,P. foveolarum 7 NORM 21 E
+P. foveolarum,21,7,NORM,7,F,35.73,35.73,,A Replete,0.123138869,gr,0.908029137,5.441551535,P. foveolarum 7 NORM 21 F
+P. foveolarum,22,1,LOW,8,A,15.66,39.09,Cold,B Limited,0.006197212,gr,0.009640207,3.973494328,P. foveolarum 1 LOW 22 A
+P. foveolarum,22,1,LOW,8,B,15.66,39.09,Cold,B Limited,0.014807129,gr,0.046133364,3.958142941,P. foveolarum 1 LOW 22 B
+P. foveolarum,22,1,LOW,8,C,15.66,39.09,Cold,B Limited,-0.000583515,gr,0.000612054,4.018722624,P. foveolarum 1 LOW 22 C
+P. foveolarum,22,1,NORM,8,D,15.66,39.09,Cold,A Replete,0.485223338,gr,0.980012589,5.017213609,P. foveolarum 1 NORM 22 D
+P. foveolarum,22,1,NORM,8,E,15.66,39.09,Cold,A Replete,0.464823932,gr,0.9931267,5.090739538,P. foveolarum 1 NORM 22 E
+P. foveolarum,22,1,NORM,8,F,15.66,39.09,Cold,A Replete,0.388582056,gr,0.98248634,5.167183099,P. foveolarum 1 NORM 22 F
+P. foveolarum,23,9,LOW,8,A,42.62,39.09,Hot,B Limited,-0.099683633,gr,0.268822216,4.967240548,P. foveolarum 9 LOW 23 A
+P. foveolarum,23,9,LOW,8,B,42.62,39.09,Hot,B Limited,-0.02326881,gr,0.053188876,5.067771485,P. foveolarum 9 LOW 23 B
+P. foveolarum,23,9,LOW,8,C,42.62,39.09,Hot,B Limited,-0.071551106,gr,0.194747629,4.877256271,P. foveolarum 9 LOW 23 C
+P. foveolarum,23,9,NORM,8,D,42.62,39.09,Hot,A Replete,0.099453001,gr,0.53726735,5.28568795,P. foveolarum 9 NORM 23 D
+P. foveolarum,23,9,NORM,8,E,42.62,39.09,Hot,A Replete,0.041664141,gr,0.455340305,5.318855018,P. foveolarum 9 NORM 23 E
+P. foveolarum,23,9,NORM,8,F,42.62,39.09,Hot,A Replete,-0.028039103,gr,0.844062489,5.452882246,P. foveolarum 9 NORM 23 F
+P. foveolarum,24,8,LOW,8,A,39.09,39.09,,B Limited,-0.085535039,gr,0.091068549,4.897242607,P. foveolarum 8 LOW 24 A
+P. foveolarum,24,8,LOW,8,B,39.09,39.09,,B Limited,0.014486289,gr,0.011487302,5.16564275,P. foveolarum 8 LOW 24 B
+P. foveolarum,24,8,LOW,8,C,39.09,39.09,,B Limited,0.057984776,gr,0.125675604,5.137972543,P. foveolarum 8 LOW 24 C
+P. foveolarum,24,8,NORM,8,D,39.09,39.09,,A Replete,0.206789676,gr,0.809214782,5.349058008,P. foveolarum 8 NORM 24 D
+P. foveolarum,24,8,NORM,8,E,39.09,39.09,,A Replete,0.36761439,gr,0.992966577,5.297016521,P. foveolarum 8 NORM 24 E
+P. foveolarum,24,8,NORM,8,F,39.09,39.09,,A Replete,0.334141638,gr,0.990795882,5.294811227,P. foveolarum 8 NORM 24 F
+P. foveolarum,25,1,LOW,9,A,15.66,42.62,Cold,B Limited,0.022764598,gr,0.198350036,3.94661765,P. foveolarum 1 LOW 25 A
+P. foveolarum,25,1,LOW,9,B,15.66,42.62,Cold,B Limited,0.027706261,gr,0.354405185,3.979681654,P. foveolarum 1 LOW 25 B
+P. foveolarum,25,1,LOW,9,C,15.66,42.62,Cold,B Limited,0.02576667,gr,0.615517848,4.007333185,P. foveolarum 1 LOW 25 C
+P. foveolarum,25,1,NORM,9,D,15.66,42.62,Cold,A Replete,0.426452373,gr,0.944618111,5.08475279,P. foveolarum 1 NORM 25 D
+P. foveolarum,25,1,NORM,9,E,15.66,42.62,Cold,A Replete,0.386834677,gr,0.906737648,5.194400253,P. foveolarum 1 NORM 25 E
+P. foveolarum,25,1,NORM,9,F,15.66,42.62,Cold,A Replete,0.523655093,gr,0.967230167,5.118353029,P. foveolarum 1 NORM 25 F
+P. foveolarum,26,9,LOW,9,A,42.62,42.62,Hot,B Limited,-0.060162009,gr,0.105291943,4.923914784,P. foveolarum 9 LOW 26 A
+P. foveolarum,26,9,LOW,9,B,42.62,42.62,Hot,B Limited,-0.072688157,gr,0.263647348,5.011767986,P. foveolarum 9 LOW 26 B
+P. foveolarum,26,9,LOW,9,C,42.62,42.62,Hot,B Limited,-0.106216149,gr,0.308864789,4.971270571,P. foveolarum 9 LOW 26 C
+P. foveolarum,26,9,NORM,9,D,42.62,42.62,Hot,A Replete,0.145436472,gr,0.78044702,5.297817242,P. foveolarum 9 NORM 26 D
+P. foveolarum,26,9,NORM,9,E,42.62,42.62,Hot,A Replete,0.131593863,gr,0.941225016,5.357670592,P. foveolarum 9 NORM 26 E
+P. foveolarum,26,9,NORM,9,F,42.62,42.62,Hot,A Replete,0.176072894,gr,0.837080585,5.328652566,P. foveolarum 9 NORM 26 F
+P. foveolarum,27,9,LOW,9,A,42.62,42.62,Hot,B Limited,-0.304641463,gr,0.595629973,4.630350485,P. foveolarum 9 LOW 27 A
+P. foveolarum,27,9,LOW,9,B,42.62,42.62,Hot,B Limited,0.017761375,gr,0.01351122,5.008499682,P. foveolarum 9 LOW 27 B
+P. foveolarum,27,9,LOW,9,C,42.62,42.62,Hot,B Limited,-0.106231193,gr,0.610470144,5.070789217,P. foveolarum 9 LOW 27 C
+P. foveolarum,27,9,NORM,9,D,42.62,42.62,Hot,A Replete,0.135178989,gr,0.818886976,5.327633421,P. foveolarum 9 NORM 27 D
+P. foveolarum,27,9,NORM,9,E,42.62,42.62,Hot,A Replete,0.103782135,gr,0.428241647,5.311677718,P. foveolarum 9 NORM 27 E
+P. foveolarum,27,9,NORM,9,F,42.62,42.62,Hot,A Replete,0.134329463,gr,0.734418119,5.320323447,P. foveolarum 9 NORM 27 F
