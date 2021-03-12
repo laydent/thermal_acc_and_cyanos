@@ -21,7 +21,7 @@ library(multcompView)
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 # load toxin and RFU data
-dat0<-read.csv("~/Dropbox/Phyto Acclimation/Manuscripts/Cyanotoxins/Data & code/Repository/Data/Cyano_toxin_data.csv")
+dat0<-read.csv("~/Data/Cyano_toxin_data.csv")
 
 # calculate standard curve
 dat.std <- dat0 %>% filter(Nutrients=="Std") #standards only
